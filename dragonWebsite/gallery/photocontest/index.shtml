@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>2012 DFW Dragon Boat Festival</TITLE>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="/js/jquery.lightbox-0.5.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<link rel="stylesheet" type="text/css" href="/gallery/gallery.css" />
+</HEAD>
+<BODY>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<td style="vertical-align:top; text-align:center;">
+<TABLE style="width:900px; margin:0 auto;">
+<TR><TD style=" text-align:center;">
+<DIV id=menubarx>
+<DIV id="selcX"> <!-- change the X to the tab page number -->
+<!--#include virtual="/gallery/img_menubar.html"-->
+</DIV>
+</DIV>
+</TR>
+<TR><TD style="vertical-align:middle; text-align: center">
+<!-- photos here -->
+<!--#include file="./img_list.html" -->
+</TR>
+</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+<script>
+    $(function () {
+        $('#gallery a').lightBox();
+    });
+</script>
+</BODY>
+</HTML>

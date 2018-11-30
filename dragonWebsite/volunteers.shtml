@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+<!--stylesheet-->
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD class="colleft para1">
+	<DIV class=subtitle>Volunteer Opportunities with Marco Polo World Foundation</DIV> 
+<p> Marco Polo World Foundation is a Public charity non-profit 501 (c) (3) organization founded in 2007. We are a non-religious and non-partisan organization. Our mission is to promote intercultural understanding by sharing and celebrating International Culture with all people of the region and across America. MPWF provides four programs: </p>
+<!-- <p>Marco Polo World Foundation is organized and operated solely by volunteers. With the outgrowing of the size and influence of MPWF, we need more helping hands to support our four programs: </p> -->
+
+<UL>
+<LI>Annual DFW Dragon Boat, Kite and Lantern Festival </LI>
+<LI>Scholarship program </LI>
+<LI>Internship program</LI>
+<LI>Asian Culture Seminar</LI>
+</UL>
+
+
+<p>We would like to have YOU join us to make a difference for our foundation and enjoy the benefit of volunteering: invaluable experience of giving back, the accomplishment of making a dream come true, the improvement of organizational and personal skills and the expansion of networking and opportunities, and most important: have fun!</p>
+
+<p>Available year round volunteering opportunities with MPWF include:</p>
+
+<UL>
+<LI>Marketing/Public Relations - Strong inter-person skills needed, marketing/business background preferred</LI>
+<LI>Media/Communication - photography/videography skill preferred</LI>
+<LI>Documentation - Strong written skills needed</LI>
+<LI>Website maintenance - website development experience needed</LI>
+</UL>
+
+	<DIV class=subtitle>Volunteering for Annual DFW Dragon Boat, Kite and Lantern Festival</DIV> 
+
+<p>Marco Polo World Foundation is proud to be the first to bring Annual DFW Dragon boat, Kite and Lantern festival to DFW area! Since the first launching in 2007, the festival has been growing fast and more influential every year with over 20,000 attendees in 2014. The festival has been organized and supported by invaluable volunteers who devote themselves with their passion, time and hard work. The festival won't be such a success without our volunteers. You are the key to make it happen! Come and join us to enjoy a day of fun at Lake Carolyn!</p>
+
+<p>Positions Needed for the Festival Day:</p>
+<UL>
+<LI>Greeters</LI>
+<LI>Information booth</LI>
+<LI>Registration for dragon boat teams</LI>
+<LI>Volunteer tent food set-up</LI>
+<LI>Parking garage directory</LI>
+<LI>Unloading / loading Dock helpers</LI>
+<LI>Helpers to organize dragon boat teams</LI>
+<LI>Stage helpers</LI>
+<LI>Educational activities at booths</LI>
+<LI>Trash pick-up</LI>
+<LI>MPWF membership Registration booth</LI>
+</UL>
+
+	<DIV class=subtitle>We Invite You to Apply Today!</DIV> 
+
+<p>If you are interested in any of the volunteer positions or would like to know more of the information, please e-mail us to <A href="mailto:volunteer@marcopoloworldfoundation.org?subject=2015 Dragon%20Boat%20Festival%20Volunteer">volunteer@marcopoloworldfoundation.org</A>. We look forward to hear from you!</p>
+
+<p>Or you can sign up online in the form below and our volunteer coordinator will contact you.</p>
+
+<br/>
+		<iframe src="https://docs.google.com/forms/d/1jaKXBRFy56cvOM2eJVDnpGGann1l37_8Wca8BHUnfoc/viewform?embedded=true" width="600" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+<!--left content-->
+		<TD class="colright para1">
+<IMG src="/images/volunteers_1.jpg"><BR>
+<IMG src="/images/volunteers_2.jpg"><BR>
+<IMG src="/images/volunteers_3.jpg"><BR>
+<IMG src="/images/volunteers_4.jpg"><BR>
+<IMG src="/images/volunteers_5.jpg"><BR>
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

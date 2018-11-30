@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="js/slides.min.jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/dragon-new.css" />
+</head>
+
+<body>
+	<div class="page-container">
+		<div class="page-content">
+			<!--#include virtual="db_header-index.html"-->
+			<!--#include virtual="db_menu_top.html"-->
+
+            <div class="dragon-page">
+                <img src="images/cover_2013.jpg" alt="" style="width: 980px; height: 280px;" />
+            </div>
+            <!--#include virtual="db_menu_bottom-index.html"-->
+            <div id="welcome_section">
+				<table style="width:100%; ">
+				<colgroup>
+				<col style="width:50%;" />
+				<col style="width:50%;" />
+				</colgroup>
+
+					<tr>
+						<td style="font-size: 2em; font-weight:bold;">
+							Free Family Event!
+						</td>							
+						<td style="font-size: 2em; font-weight:bold;">
+							Register
+						</td>
+					</tr>
+					
+					<tr>
+						<td style="font-size: smaller; font-weight:bold; font-style: italic;">
+							* Dragon Boat Racing!
+						</td>
+						<td class="dragon-content">
+							Want to join dragon boat racing, one of the hottest growing water sports?
+						</td>
+					</tr>					
+					<tr>
+						<td style="font-size: smaller; font-weight:bold; font-style: italic;">
+							* Kite Flying and Lantern Display!
+						</td>
+						<td style="vertical-align: top;">
+							<a href="/register.shtml""><img src="/images/registerButton1.gif"/></a>
+						</td>
+					</tr>
+					
+					<tr>
+						<td style="font-size: smaller; font-weight:bold; font-style: italic;">
+							* Free Concert by <a href="/longstarattitudeband.shtml" target="_blank" >Lone Star Attitude</a>!
+						</td>
+						<td class="dragon-content">
+							Marco Polo World Foundation is now providing scholarship.
+						</td>
+					</tr>
+														
+					<tr>
+						<td style="font-size: smaller; font-weight:bold; font-style: italic;">
+							* Kids Activities and Tranditional Handcrafts...& more!
+						</td>
+						<td style="vertical-align: top;">					
+							<a href="/forms/scholarship_application_form_2012.pdf" target="_blank"><img src="/images/downloadFormButton.gif" style="border:0; margin:0; padding:0;" /></a>
+						</td>
+					</tr>
+
+					<tr>
+						<td style="font-size: smaller; font-weight:bold; font-style: italic;">
+								* Hourly Raffle Drawings with Grand Prize of Airline tickets to Korea!
+						</td>
+						<td class="dragon-content">
+								Become a sponsor in 2014.
+						</td>
+					</tr>
+					
+					<tr>
+						<td style="padding:0px;border-collaps:collaps;">
+							<table style="width:100%;">
+								<tr>
+									<td class="dragon-content" style="text-align:left; vertical-align: bottom; padding-top: 25px">
+										<a href="/videos.shtml">Watch Video</a>
+									</td>
+								
+									<td class="dragon-content" style="text-align:center; vertical-align: bottom;">
+										<a href="http://irvingtx.swagit.com/play/06072013-535/#1" target="_blank">Watch Festival</a>
+									</td>
+								
+									<td style="display:inherit; float:right; vertical-align: bottom;">
+										<a href="https://www.facebook.com/MarcoPoloWorldFoundation" target="_blank"><img src="/images/facebook-icon.png" style="border:0; width:24px; height:24px; float:right; padding:0 25px 0 5px;"></a>
+										<a href="https://twitter.com/MarcoPoloWF" target="_blank"><img src="/images/twitter-icon.png" style="border:0; width:24px; height:24px; float:right; padding:0 0 0 5px;"></a>
+										<a href="http://www.youtube.com/user/MPWFoundation" target="_blank"><img src="/images/youtube-icon.png" style="border:0; width:24px; height:24px; float:right; padding:0 0 0 5px;"></a>
+									</td>
+								</tr>
+							</table>
+							
+						</td>
+						<td style="padding:0 0 0 0;vertical-align: top;">					
+							<table style="width: 100%;">
+								<tr>
+									<td>
+										<a href="/forms/2014sponsorletter.pdf" target="_blank"><img src="/images/downloadFormButton.gif" style="" /></a>
+									</td>
+									<td>
+										<a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="/images/get_adobe_reader.gif" style="float:right;padding: 0 50px 0 0;width:82px; height:24px;" /></a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+<!-- 
+ style="padding: 0 50px 0 16px;"
+ -->
+		  <!-- donation section
+					 <p class="dragon-content" style="margin-top:16px;">Marco Polo World Foundation is now taking donations.<br /> 
+		  <a href="/donation.shtml" target="_blank"><img src="/images/donatebutton.gif" style="border:0;"></a>
+		  </p>
+		 -->
+
+<!-- 
+					<tr>
+						<td>
+						</td>
+
+						<td>
+						</td>
+
+						<td>
+						</td>
+
+						<td>
+						</td>
+
+						<td>
+						</td>
+
+						<td>
+						</td>
+
+					</tr>
+ -->
+						
+				</table>
+			</div>          
+            <!-- add slide -->
+            <div id="container" style="width: 960px; height: 220px; margin:16px 0px; padding: 0;">
+				<div id="slides">
+                    <div class="slides_container">
+                        <div class="slide">
+                            <div class="item">
+								<a href="/boating.shtml" title="Click here for more info about Dragon Boat Racing">
+									<img src="images/slide-boating.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                            <div class="item">
+                                <a href="/kite_flying_contest_rule.shtml" >
+                                    <img src="images/slide-kite.png" width="300" height="220" alt="Originally used for communication in battle, kites were invented in China about 2,000 years ago. 
+                                    In the 12th century, kite making spread to the West. As the handicraft of making kites developed in China, local and traditional Chinese culture combined to produce 
+                                    beautiful kites depicting fairy tales, flowers, birds and other animals. 
+                                    Contests testing the craftsmanship and kite flying skills have been held in China. 
+                                    Click here for more info about Kite flying Contest"></a>
+                           </div>
+                            <div class="item">
+                                <a href="/scholarship.shtml" >
+                                    <img src="images/slide-scholarship.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+							
+                        </div>
+                        <div class="slide">
+                            <div class="item">
+                                <a href="/shuttlecock_contest_rule.shtml" title="Click here for more info about Chinese Hacky Sack">
+                                    <img src="images/slide-jianzi.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                            <div class="item">
+                                <a href="/vendors.shtml" title="Vendor Both">
+                                    <img src="images/slide-booths.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                            <div class="item">
+                                    <img src="images/slide-jiaozi.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                        </div>
+						<div class="slide">
+                            <div class="item">
+                                    <img src="images/slide-facepainting.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                            <div class="item">
+                                    <img src="images/slide-riddle.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+                            <div class="item">
+                                    <img src="images/slide-lantern.png" width="300" height="220" alt="Slide 1"></a>
+                            </div>
+						</div>
+					</div>
+				</div>
+			</div>
+            <!--#include virtual="db_footer-index.html"-->
+			
+<!--dmenu-bottom-->
+		</div>
+    </div>
+</body>
+
+<script type="text/javascript">
+    var slideArray = new Array()
+
+    slideArray[0] = "Welcome to the <strong>2013 Annual DFW Dragon Boat, Kite and Lantern Festival</strong>. The festival features colorful kite flying and exciting dragon boat races, cultural performances, a lantern festival, plus traditional Asian food, arts and crafts and educational activities. Come enjoy a day of fun and exciting cultural diversity and educational activities. This event is free to the public to attend.";
+
+    slideArray[1] = "Originally used for communication in battle, kites were invented in China about 2,000 years ago. In the 12th century, kite making spread to the West. As the handicraft of making kites developed in China, local and traditional Chinese culture combined to produce beautiful kites depicting fairy tales, flowers, birds and other animals. Contests testing the craftsmanship and kite flying skills have been held in China for thousands of years.";
+
+    slideArray[2] = "The Chinese lantern was the first historically documented portable light in the world. Lanterns are displayed at the Chinese New Year Festival and the August Moon Festival. They are made in many shapes and sizes from small and simple spheres to intricate designs with portraits of historical figures, pictures of legends and landscapes and beautiful calligraphy.";
+
+    function firstSlide() {
+
+        $('#div_display').html(slideArray[0]);        
+        setTimeout(function(){secondSlide()}, 15000);
+
+    }
+
+
+    function secondSlide() {
+
+        $('#div_display').html(slideArray[1]);
+        setTimeout(function () { thirdSlide() }, 15000);
+
+    }
+
+    function thirdSlide() {
+
+        $('#div_display').html(slideArray[2]);
+        setTimeout(function () { firstSlide() }, 15000);
+
+    }
+
+  $(function () {
+        $('#slides').slides({
+            preload: true,
+            preloadImage: 'img/loading.gif',
+            play: 5000,
+            pause: 2500,
+            slideSpeed: 800,
+            fadeSpeed: 1000,
+            hoverPause: true,
+            generatePagination: false
+        });
+//        firstSlide();
+    });
+
+</script>
+
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+	<HEAD>
+		<TITLE>DFW Dragon Boat Festival</TITLE>
+		<SCRIPT type="text/javascript"></SCRIPT>
+
+		<link rel="stylesheet" type="text/css" href="/dragon.css" />
+		<STYLE type="text/css"></STYLE>
+	</HEAD>
+	<BODY>
+		<CENTER>
+			<TABLE id=maintbl border=0>
+			<!--#include virtual="/db_header.html"-->
+				<TR id=menubar>
+				<!--#include virtual="/db_menu.html"-->
+				</TR>
+				<TR>
+					<TD align=left valign=top style="padding-left: 15px;">
+						<TABLE style="border-collapse: collapse;" border=0 width=100%>
+							<TR>
+								<TD class="colleft para1">
+									<DIV class=subtitle>2014 Annual DFW Dragon Boat, Kite and Lantern Festival</DIV>
+									<BR>
+									<p class=subtitle3 style="font-size: 10pt; text-decoration: none;">
+										Marco Polo World Foundation is proud to be the first to bring dragon boating to North Texas
+									</p>
+									Welcome to the <B>2014 Annual DFW Dragon Boat, Kite, and Lantern Festival</B> to be held on May 18, 2014. 
+									You are invited to become a pioneer of the growing sport of dragon boating in the DFW region. 
+									As we are going into our eighth year of the festival, most teams are novices at this growing sport. 
+									We hope you will find the sport challenging and rewarding as many of our participants will attest to. 
+									Most importantly, have fun!
+									<BR><BR>
+									Dragon Boating is one of the hottest growing water sports. 
+									Such events are already held with great success in Canada, northeast and western United States. 
+									Established events of Dragon Boating alone are currently attracting approximately 50,000 attendees.
+									<BR><BR>
+									One only needs to google 'dragon boat racing' to see the proliferation of this sport. 
+									We are very proud and honored to be designated the DFW Chapter of the <A href="http://www.texasdragonboat.com">Texas Dragon Boat Association</A>. 
+									The <A href="http://www.texasdragonboat.com">Texas Dragon Boat Association</A> and
+									 <A href="http://www.usadragonboating.com/">USA Dragon Boating</A> are assisting us in the planning of the event 
+									 and will be on hand to run the races at the festival.
+									<BR><BR>
+									By learning the sport, you will not only be launching a hot new sport in the region 
+									but you will also be participating in a 2000-year old tradition and experiencing Asian culture. 
+									You are making a difference by enhancing the international spirit of DFW. 
+									This is a part of the regional goal - to develop multi-cultural attractions and excitement to our area.  
+									<BR><BR>
+									Dragon Boat Teams:
+									<UL style="margin-top: 0px;">
+										<LI>One team captain</LI>
+										<LI>Approximately 20-24 crewmembers (20 paddlers, one drummer, alternates)</LI>
+									</UL>
+									Crewmember roles
+									<UL style="margin-top: 0px;">
+										<LI>One drummer</LI>
+										<LI>20 paddlers</LI>
+										<LI>Alternates</LI>
+									</UL>
+									Each dragon boat will be steered by a Steersperson from the <A href="http://www.texasdragonboat.com">Texas Dragon Boat Association</A>. 
+									Each dragon boat measures approximately 40 feet in length and 4 feet in width and carries 20 paddlers, 1 drummer and 1 steersperson. 
+									The dragon boat weighs approximately 500 pounds. Dragon boating equipment, such as the boats, paddles, and lifejackets are supplied by the <A href="http://www.texasdragonboat.com">Texas Dragon Boat Association</A>.
+									<BR><BR>
+									The course will be 250 meters.
+									<BR><BR>
+									There will be a training and practice session the day before the race. 
+									Team practice times are assigned once the completed Team Registration Form and Waivers are received by the Festival Committee. 
+									For more information, click on the <A href="/register.shtml">registration page</A>.
+									<BR><BR>
+									If you like working as a team, you would enjoy the 250 meter sprint.
+									<BR><BR>
+									You must know how to swim!
+									<BR><BR>
+									You will need to sign a waiver form (on the registration page), if you are over 18 or older.
+									<BR><BR>
+									Please note that this is a water sport and participants could get wet. 
+									All participants must wear an approved life jacket supplied by the Festival while participating in the Boat Race.
+									<BR><BR>
+									<B>Participants Under 18</B><BR>
+									<P>Participants under 18 years of age must be approved by the Festival and be able to properly fit and wear the Festival approved life jacket 
+									while participating in the Boat Race. Minimum age to participate is 11 years at the date of the event. A parent or guardian must sign the waiver form located on the Registration page</P>
+									<B>Mixed Teams</B><BR>
+									<P>For each dragon boat, there will be 20 people paddling and one drummer on the boat plus one steersperson which we provide.  With respect to mixed teams, we require a minimum of 8 female paddlers and 8 male paddlers on the boat, the other four paddlers can be either male or female.  The drummer does not count as a paddler.</P>
+									<BR><BR>
+									<A href="http://www.dragon-boats.com/dbnet/Dragon_boat_training_recommendations.htm">Dragon-Boats.net</A> provides a summary for  training in the sport.
+									<BR><BR>
+									Click here for an article on <A href="paddle_training.pdf">paddle-sports fitness training</A><BR><BR>
+									<A href="http://www.adobe.com/products/acrobat/readstep2.html"><IMG src="/images/get_adobe_reader.gif" border=0 /></A><BR><BR>
+								</TD>
+								<TD class="colright para1" valign=top>
+									<!--right content-->
+									<IMG src="/images/boating_1.gif"><BR>
+									<IMG src="/images/boating_2.gif"><BR>
+									<IMG src="/images/boating_3.gif"><BR>
+									<IMG src="/images/boating_4.gif"><BR>
+									<IMG src="/images/boating_5.gif">
+								</TD>
+							</TR>
+						</TABLE>
+					</TD>	
+				</TR>
+			<!--#include virtual="/db_footer.html"-->
+			</TABLE>
+		</CENTER>
+	</BODY>
+</HTML>

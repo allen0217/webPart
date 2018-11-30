@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DFW Dragon Boat Festival</title>
+<script type="text/javascript">
+<!--script-->
+</script>
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<style type="text/css">
+.vendorlist {width: 600px;}
+.vendorlist TD {font-size: 10pt; text-indent: 20px; padding-left: 10px;}
+.vendorlist TD:first-line {font-size: 12pt;}
+.colright img {margin-bottom: 10px;}</style>
+</head>
+<body>
+<center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0">
+<tbody>
+<tr>
+<td class="colleft para1" valign="top">
+<h2 style="color: gold"><font size="2">VENDORS</font></h2>
+<div style="font-size: 14pt"><font size="2">Vendor booths consist of a six foot table and 2 chairs in a 10x10 tent. Vendors may register for space by submitting the Vendor Form and appropriate payment.<br />
+<br />The vendor hours are from 9 a.m. to 6:00 p.m. Vendor booths for food and non-food items, including arts and crafts are available.  Set-up is at 8:30 a.m. on the day of the event.  </font><font color="yellow" size="2">IMPORTANT: Food and drink vendors may not sell water.</font>
+<p><font size="2">&nbsp;<a href="/forms/vendor.pdf">Download Vendor Form</a></font></p>
+<p><font size="2">This year Food Vendor must all apply for a food permit with the City of Irving, form can be downloaded here </font><font size="2"><a title="" href="./forms/HealthPermit.pdf">Health Permit</a></font></p>
+<p><font size="2">For more info, contact our <a href="mailto:booth@dfwdragonboatfestival.com">Vendor Liason</a><br />
+<br /><span style="font-size: 14pt"></span></font></p>
+<p><font size="2"><span style="font-size: 14pt">Food Vendors</span></font><font size="2"><br />
+</font></p>
+<table style="width: 100%; border-collapse: collapse" summary="" border="1" bordercolor="#000000" cellpadding="3" cellspacing="0">
+<tbody>
+<tr valign="top">
+<td width="33%">
+<p><font size="2">Food Style</font></p></td>
+<td width="33%">
+<p><font size="2">Items Sold<br />
+</font></p></td>
+<td align="center" width="33%">
+<p><font size="2">Accepting Applications</font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">Laos (Food)</font></p></td>
+<td>
+<p><font size="2"><span>spicy papaya salad, sticky rice, beef/chicken on the
+stick with sauce. Fried chicken wing and Lao sausages</span></font></p></td>
+<td align="center">
+<p><font size="2">Closed</font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2"><span>Laos (Drink)<br />
+</span></font></p></td>
+<td>
+<p><font size="2"><span>Fresh Sugarcane Juice, Thai Tea, Iced Coffee, Coconut
+Juice, Cream Soda Drink, Can Drinks</span></font></p></td>
+<td align="center">
+<p><font size="2">&nbsp;Closed</font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">American (Food)</font></p></td>
+<td>
+<p><font size="2"><span>Potato Swirl, Tea, Lemonade, Funnel Cake, Sausage,
+Corn Dog</span></font></p></td>
+<td align="center">
+<p><font size="2">&nbsp;<font color="#00ff33"><strong>Open</strong></font></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;American (Ice Cream)</font></p></td>
+<td>
+<p><font size="2"><span>Snow Cones, Lemonade Ice; Snow Cone-small 8oz\Medium 16oz\Large 24oz</span></font></p></td>
+<td align="center">
+<p><font size="2">&nbsp;Closed</font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">Drinks</font></p></td>
+<td>
+<p><font size="2">Coffee, Tea, Fruit smoothies, Donuts, Blended lemonade</font> </p></td>
+<td align="center">
+<p><font size="2">Closed</font> </p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">Mexico<br />
+</font></p></td>
+<td>
+<p><font size="2">Deep Fried Taco, Tostada, Hotdogs, Funnel Cakes, Chips, Cokes, Cotton Candy</font></p></td>
+<td align="center">
+<p><strong><font size="2"><font color="#00ff33"><strong>Open</strong></font></font></strong></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">Italy</font></p></td>
+<td>
+<p><font size="2">Italian Subs, Italian sodas, Appetizers</font></p></td>
+<td align="center">
+<p><font size="2"><font color="#00ff33"><strong>Open</strong></font></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;China</font></p></td>
+<td>
+<p><font size="2">BBQ soft noodle, egg roll, fried rice, orange chicken, veggie delight, broccoli beef, soft drink</font></p></td>
+<td align="center">
+<p><font size="2"></font><font color="#00ff33" size="2"><strong>Open</strong></font><font size="2"><br />
+</font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;Japan</font></p></td>
+<td>
+<p><font size="2">&nbsp;</font></p></td>
+<td align="center">
+<p><font size="2">&nbsp;</font><font color="#00ff33" size="2"><strong>Open</strong></font><font size="2"></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;Korea</font></p></td>
+<td>
+<p><font size="2">&nbsp;</font></p></td>
+<td align="center">
+<p><font size="2">&nbsp;</font><font color="#00ff33" size="2"><strong>Open</strong></font><font size="2"></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;Vietnam</font></p></td>
+<td>
+<p><font size="2">Egg rolls, Spring Rolls, Banh Mi (Vietnamese Subs), Vermicelli bowls, Rice plates, Iced lychee tea <br />
+</font></p></td>
+<td align="center">
+<p><font color="#00ff33" size="2"><strong>Open</strong></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;Philippines</font></p></td>
+<td>
+<p><font size="2">&nbsp;</font></p></td>
+<td align="center">
+<p><font color="#00ff33" size="2"><strong>Open</strong></font></p></td></tr>
+<tr valign="top">
+<td>
+<p><font size="2">&nbsp;Thailand</font></p></td>
+<td>
+<p><font size="2">Thai Fried rice, Curry noodle (padthai), Tea, Red Curry, Egg Roll, Thai BBQ Pork and Chicken, Fried herb pork and chicken</font></p></td>
+<td align="center">
+<p><font size="2">Closed</font></p></td></tr></tbody></table>
+<table class="vendorlist"></table><font size="2"><br />
+</font></div></td>
+<td class="colleft para1" valign="top"><br />
+</td>
+<td class="colleft para1" valign="top"><br />
+<a href="/forms/vendor.pdf"></a><br />
+<br /><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img alt="" src="/images/get_adobe_reader.gif" border="0" /></a><br />
+<br /><!--left content--></td>
+<td class="colright para1" valign="top"><!--right content--><br />
+<img alt="" src="/images/vendors_1.gif" /><img alt="" src="/images/vendors_2.gif" /><img alt="" src="/images/vendors_3.gif" /><img alt="" src="/images/vendors_4.gif" /><img alt="" src="/images/vendors_5.gif" /></td></tr></tbody></table></td></tr><!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

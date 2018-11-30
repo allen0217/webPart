@@ -1,0 +1,193 @@
+BODY 
+	{
+		color: white;
+		font-size: 10pt; 
+		border:0; 
+		margin:0;
+		padding: 0;
+		font-family: Arial, Verdana, sans-serif;
+		background-color: #003366;
+		background-image: url("/images/bg_blue.png");
+		background-repeat:repeat;
+		background-position: left top;
+		text-align:center;
+	}
+
+.page-container
+	{
+		width:980px;
+		border:1px solid #900918;
+		border-top:0; 
+		vertical-align:top;
+		text-align:center;
+		margin: 0 auto;
+		background-color:#900918;
+	 }
+
+.page-content 
+	{
+	text-align:left; 
+	width:100%;
+	}
+
+.dragon-header 
+	{
+		width:100%; 
+		background-color:White;
+	}
+ 
+.dragon-menu 
+	{
+		width:100%; 
+		vertical-align:middle; 
+		margin:0; 
+		padding:0;
+		background-color:#FFCC00; 
+		list-style-type:none; 
+		border:1px solid #900918; 
+		border-right:0; 
+		border-left:0; 
+		margin: 0; 
+		margin-bottom:8px;
+	}
+
+.dragon-menu li 
+	{
+		display:inline; 
+		padding:0; 
+		margin:0; 
+		vertical-align:baseline;
+	}
+
+.dragon-menu li a 
+	{
+		text-decoration: none; 
+		font-weight:bold; 
+		padding:8px; 
+		line-height:30px;
+	}
+
+.dragon-menu li a:hover 
+	{
+		color: #dfdfdf; 
+		background-color:#900918;
+	}
+
+.dragon-page 
+	{
+		background-color: transparent;
+		width:980px;
+		height:564px;
+	}
+ 
+.dragon-register 
+	{
+		width:980px; 
+		height:260px; 
+		margin: 0px; 
+		border:0; 
+		font-size:12pt; 
+		color: #dfdfdf; 
+		padding:8px;
+		position: absolute; 
+		margin: 0px; 
+		background-color:transparent; 
+		text-align:center;
+	}
+
+.clear 
+	{
+		Clear: both; 
+		width:0; 
+		height:0;
+	}
+
+.slide 
+	{
+		float: left; 
+		width:980px; 
+		border:0; 
+		margin:0; 
+		padding:0; 
+		color:Red; 
+		background-color: transparent;
+	}
+
+.slide .item 
+	{
+		float:left; 
+		width:305px; 
+		height:auto;  
+		margin:0 10px;  
+		background-color:transparent;
+	}
+
+.caption 
+	{
+		font-size:10pt; 
+		font-weight:bold; 
+		color:Red; 
+		padding:0 8px; 
+		margin:0;
+	}
+
+#slides 
+	{
+	float:left; 
+	width:980px; 
+	display: inline;
+	}
+
+.slides_container 
+	{
+		width:960px;
+		height:220px;
+		overflow:hidden;
+		position:relative;
+		display:block;	
+		margin-left:4px;
+	}
+
+.slide a img 
+	{
+		border:0; 
+		margin:0; 
+		padding:0;
+	}
+
+.dragon-content 
+	{
+		margin:0; 
+		line-height:10px;
+		font-size: smaller;
+	}
+
+#welcome_section 
+	{
+		width:980px; 
+		height: 260px; 
+		padding:0; 
+		margin:0; 
+		color:Red; 
+		background-image: url("/images/text-bgd.gif"); 
+		background-position:left bottom; 
+		background-repeat:repeat-x; 
+		background-color: White;
+	}
+ 
+#welcome_section table 
+	{
+		color: Red; 
+		font-size:10pt;
+		border-collapse:collapse;
+	}
+ 
+#welcome_section table tr td 
+	{
+		vertical-align: middle; 
+		padding-top:6px;
+		padding-right: 0;
+		padding-bottom: 6px;
+		padding-left: 16px;
+/* 		border: 1px solid black;	 */
+	}

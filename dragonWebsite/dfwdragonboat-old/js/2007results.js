@@ -1,0 +1,17 @@
+var results2007 = '' + 
+'<DIV class=subtitle>2007 Dragon Boat Race Results</DIV>' + 
+'<SPAN class=subtitle2>Festival Grand Champion</SPAN>: Lee\'s White Leopard Kung Fu School<BR>' + 
+'<DIV class=subtitle2>Corporate Division</DIV>' + 
+'<SPAN class=subtitle1>1st Place</SPAN> Deloitte Dragons<BR>' + 
+'<SPAN class=subtitle1>2nd Place</SPAN> CitiGroup Crew<BR>' + 
+'<DIV class=subtitle2>Community Division</DIV>' + 
+'<SPAN class=subtitle1>1st Place</SPAN> USCCC<BR>' + 
+'<SPAN class=subtitle1>2nd Place</SPAN> ACP Team<BR>' + 
+'<SPAN class=subtitle1>3rd Place</SPAN> OCA Dragonflies<BR>' + 
+'<DIV class=subtitle2>Komen Division</DIV>' + 
+'<SPAN class=subtitle1>1st Place</SPAN> White Leopard Wu Yi Beta<BR>' + 
+'<SPAN class=subtitle1>2nd Place</SPAN> OCA Dragonflies<BR>' + 
+'<DIV class=subtitle2>Open Division</DIV>' + 
+'<SPAN class=subtitle1>1st Place</SPAN> White Leopard Wu Yi Alpha (Lee\'s White Leopard Kung Fu School)<BR>' + 
+'<SPAN class=subtitle1>2nd Place</SPAN> USCCC<BR>' + 
+'<SPAN class=subtitle1>3rd Place</SPAN> ACP Team<BR><BR>'; 

@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+map = -1;
+
+function SwapMap()
+{
+	map = -map;
+	if(map==1)
+		document.getElementById("map_image").innerHTML = "<IMG src=\"/images/map_1.gif\">";
+	else
+		document.getElementById("map_image").innerHTML = "<IMG src=\"/images/map_2.gif\">";
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
+}
+
+</style>
+
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=center valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD class="colleft para1" valign=top>
+<CENTER>
+<DIV class=subtitle><align =center>11th Annual DFW Dragon Boat, Kite and Lantern Festival</DIV>
+Sunday May 20th, 2018<BR>
+8:30am to 6:00pm<BR>
+Lake Carolyn, Irving, Texas,75039<BR>(at the Las Colinas Urban Center)
+</CENTER>
+<BR><BR>
+
+<DIV  id=map_image><IMG src="/images/map_2.gif"></DIV><BR>
+<CENTER style="font-size: 14pt;"><A href="/forms/2017layout.pdf">Festival Layout</A><BR>
+<br>
+<CENTER style="font-size: 14pt;"><A href="/forms/2017driving.pdf">Driving Directions</A><BR>
+<br>
+<A href="/forms/parking.pdf"><CENTER style="font-size: 14pt;">Parking Map</CENTER></A>
+<br>
+<A href="/forms/2017posterss.pdf"><CENTER style="font-size: 14pt;">Free Dart to Las Colinas Urban Center Station </CENTER></A>
+<br>
+</CENTER>
+
+<CENTER>
+<DIV class=subtitle>APT Transit System Free ride</DIV>
+APT Transit System will be operating on Sunday May 20th from 08:30AM to 6:00PM on
+Blue Lane only. The APT System Will Also Provide Free Tours of Las Colinas Urban Center
+and a bird eye view of the festival. <BR><BR>
+Please see map of APT Transit system<BR><BR>
+<IMG src="/images/apt-map.jpg" ><BR>
+</CENTER>
+<!-- <BR><BR>
+Free parking available on first come basis on northbound side of Lake Carolyn Parkway.<BR><BR> -->
+
+
+
+<!--left content-->
+		<TD class="colright para1" valign=top>
+
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

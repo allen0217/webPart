@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+
+<TD align=left valign=top style="padding-left: 15px;">
+<H2>The Marco Polo World Foundation Scholarship
+$2000.00 in Combined Scholarship Awards in May 2017!
+</H2>		
+<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		
+<td colspan="3" class="para1" >
+<div class="subtitle">About the Marco Polo World Foundation Scholarship </div>
+<p style="color: White">Marco Polo World Foundation is a non-profit 501 (c) (3) organization founded in 2007. We are a non-religious and non-partisan organization. Our mission is to promote intercultural understanding and acceptance of diversity in the community. We launched the Annual DFW Dragon Boat, Kite and Lantern Festival as an effort to pursue our mission, as well as to showcase international culture and to celebrate Asian-Pacific American Heritage Month. Through this festival, we hope to bring together individuals and organizations from all different sectors of the community, and encourage local, regional and international interaction. MPWF is expanding the effort of pursuing our mission by offering scholarship awards to high school seniors and college  underclassmen  who show dedication to promoting intercultural understanding.</p>
+<br />
+<div class="subtitle">Description</div>
+<p style="color: White">In recognition of student volunteerism in our community, the Marco Polo World Foundation (MPWF) has established scholarships for students from public high school seniors with acceptance to public universities in hand  through  2nd year college students (full time students) in the greater DFW area.</p>
+<br />
+<p style="color: White">The MPWF Scholarships recognize individuals who have made significant contributions to the community through their volunteer efforts and in multi-cultural activities. Different from most other scholarships, the MPWF Scholarships place more emphasis on a student's demonstrated interest and efforts in serving his/her community than on academic or athletic excellence. It is the goal of the MPWF to provide opportunities and to encourage students to become active in their community through volunteer service.</p>
+
+<p style="color: White">The Marco Polo World Foundation Scholarships has been founded since year 2012 through funding contributions from regional businesses. </p>
+
+<br />
+<div class="subtitle">Criteria for Selection  </div>
+<p style="color: White">1. To be eligible for Marco Polo World Foundation Scholarships, applicants must demonstrate volunteer services to Annual DFW Dragon Boat, Kite and Lantern Festival. 
+</p>
+<p style="color: White">2. To be eligible for Marco Polo World Foundation Scholarships, applicants must demonstrate contributions to their local community through volunteer services in past two years. Eligible volunteer services include community non-profit 501(c) (3) organizations, municipal organizations, and multi-cultural organization/activities.
+</p>
+<p style="color: White">3. Applicants must provide a minimum of three references by relevant authorities along with their applications.</p>
+<p style="color: White">4. Applicants must fill out the scholarship application form. All entries on the form should be typed in and no hand writings please. 
+<br />
+
+<div class="subtitle">Open Application Period </div>
+
+<p style="color: White">1. Applications are open from January each year and close three weeks before the festival day.</p>
+
+<p style="color: White">2. Please email the application form in PDF format and reference letters to <a href="mailto:scholarship@marcopoloworldfoundation.org">scholarship@marcopoloworldfoundation.org</a> </p>
+
+<p style="color: White">3. Click <a href="/forms/scholarship-application-form.pdf"> <span style="font-size: medium">Scholarship Application Form</span></a> to download the application form.  
+</p>
+<p style="color: White">4.  Or Mail the application form and reference letters to: <br /> 
+Marco Polo World Foundation <br /> 
+400 E. Royal Lane, Building Three, Suite 290 <br /> 
+Irving, Texas 75039<br /> 
+
+</p>
+<br />
+<div class="subtitle">Selection Process </div>
+<p style="color: White">The Marco Polo World Foundation (MPWF) Scholarship Committee thoroughly reviews all submitted applications immediately after the submission deadline. A consensus will be made among the Committee members at the end of the evaluation process. 
+
+</p>
+<p style="color: White">Applicants' references and history of volunteer services are directly compared to each other's; the outstanding applicants will be awarded the scholarship(s). The number of recipients and the amount of each award are decided based on overall applicant qualification and available funding.</p>
+<br />
+<div class="subtitle">Announcement and Presentation of Awards </div>
+<p style="color: White">The recipients of the MPWF Scholarships will be notified as soon as the decisions are made. The awards will be presented on stage at Annual DFW Dragon Boat, Kite and Lantern Festival by Marco Polo World Foundation. The recipients must be present at the festival in person to receive the award.</p>
+<br />
+<div class="subtitle">Authorization to release information for Public Relations/Marketing Purposes  </div>
+<p style="color: White">Marco Polo World Foundation would like to share stories of how student volunteerism impacts others and the community. By submitting the scholarship application to MPWF, applicants authorize MPWF to share his/her story for promotional and/or marketing purposes.</p>
+<div class="subtitle">Questions </div>
+<p style="color: White">For more information or inquiries, please contact Marco Polo World Foundation Scholarships at <a href="mailto:scholarship@marcopoloworldfoundation.org">scholarship@marcopoloworldfoundation.org</a></p>
+<BR>
+</TD>
+		<TD class="colright para1" valign=top>
+<!--
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+
+<IMG src="/images/program_5.gif"><BR>
+-->
+
+<IMG src="/images/Scholarship Award.jpg" style="width:200; height:140">
+<IMG src="/images/scholarship photo.jpg" style="width:150; height:200">
+</TD>
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

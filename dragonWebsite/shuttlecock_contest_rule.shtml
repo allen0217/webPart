@@ -1,0 +1,115 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>DFW Dragon Boat Festival</title>
+        <script type="text/javascript">
+    </script>
+        <link rel="stylesheet" type="text/css" href="/dragon.css" />
+        <style type="text/css"></style>
+    </head>
+    <body>
+     <table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+
+    <tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+
+    <tr>
+   <td style="padding-left: 15px" align="left" valign="top">
+    <table style="border-collapse: collapse" border="0" width="100%">
+    <tbody>
+     <tr>
+
+    <td colspan="3" class="para1" style="padding: 10px 0px 10px 0px"><!--#include file="compitition_events.html"--></td></tr>
+
+
+
+    <tr><!--left content-->
+    <td class="colleft para1" valign="top" >
+    <p id="sponsor"></p>
+<br />
+       <div class="subtitle">Chinese Hacky Sack Competition Infomation</div>
+
+    <p>There are two chances to compete:</p>
+    <BR>
+    <BR>
+    <div class="subtitle">11:00am – Individual Competition in Two Age Groups </div>
+    <div class="subtitle2">Age 15 and under</div>
+    <p>    Contestants compete to keep the shuttlecock from hitting the ground by kicking or using any body parts except hands. A contestant’s turn ends when the shuttlecock hits ground. The contestant with the most number of kicks/hits wins.</p>
+     <br />
+
+    <div class="subtitle2">Over age 15</div>
+      <p>  Contestants compete to get in as many kicks or hits as possible within a 2-minute period. The shuttlecock may hit ground during this time, and contestants are expected to pick up the shuttlecock and continue to accumulate the number of kicks/hits. The contestant with the most number of kicks/hits wins. 
+    </p>
+    <br />
+    <br />
+
+    <div class="subtitle">3:00pm - Team Competition, no Age Limit </div>
+    <p>
+    Contestants will be grouped into pairs. A member of each team kicks the shuttlecock to the other member who then returns the shuttlecock in the same manner. Teams compete to get in as many kicks or hits as possible within a 3-minute period. The shuttlecock may hit ground during this time period, contestants are expected to pick up the shuttlecock and continue to accumulate the number of kicks/hits. The team with the most number of kicks/hits wins.<br />
+    </p>
+    <br />
+    <div class="subtitle">Information </div>
+
+      <p>  •	A Chinese Hacky Sack crash course is offered prior to each competition: 10:00 am and 2:00pm.
+</p>
+     <br />
+       <p> •	A contestant’s turn ends if he/she uses his/her hands in an attempt to keep the shuttlecock from hitting ground.
+    </p><br />
+
+      <p>•	 Prizes are awarded to the winner and the runner-up of each of the three groups. 
+</p>
+ 
+      <p> •	For more information and any inquiries, feel free to email us at  <A href="mailto:hackysack@dfwdragonboatfestival.com"> hackysack@dfwdragonboatfestival.com </A><BR><BR> 
+</p> 
+
+    <div class="subtitle">History About the Chinese Hacky Sack</div>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="colleft para1" style="padding: 10px 0px 10px 0px; margin: 0px 0px 0px 10px;">
+<colgroup>
+<col style=" width:150px; padding: 10px 0px 10px 0px;" />
+<col style=" width:760px; padding: 10px 0px 10px 0px;"/>
+</colgroup>
+<tr>
+<td><img alt="" src="/images/jianzi1.jpg" alt="" style="width: 150px; height: 150px;"/><br /></td>
+<td><p>Jianzi is a traditional Asian game in which players aim to keep a weighted shuttlecock in the air using mostly their feet and other parts of the body except the hands. The game, which goes by many different names, may be rules-based and be played on a court similar to badminton and volleyball; or it could be played casually among a circle of players in a street or park, with the objective to keep the shuttle in the air and show off skills. 
+    </p></td>
+</tr>
+ </table> 
+ </td> 
+<tr>
+    <td style="padding: 10px 0px 10px 0px;"><p>The origin of the Chinese Hacky Sack (Jianzi) dates back to the Han Dynasty more than 2000 years ago. This game prevailed during the Tang Dynasty (618-907), when shops specializing in shuttlecocks business started to appear. In the Ming Dynasty (1368-1644), formal competition of shuttlecock kicking was held. The game continues to evolve and prevail throughout Chinese history. Its lasting popularity is in part credited to its spontaneity. The Chinese Hacky Sack is small and very portable, it requires very little space to play, and it could be played alone or as a group anywhere at any time. The variation of tricks and techniques is countless. Players also enjoy much health benefits along the way.
+    </p></td>
+</tr>
+
+</td></tr>
+<tr><td>
+<table class="colleft para1" style="padding: 10px 0px 10px 0px; margin: 0px 0px 0px 10px;">
+<colgroup>
+<col style=" width:700px; padding: 10px 0px 10px 0px;" />
+<col style=" width:250px; padding: 10px 0px 10px 0px; "/>
+</colgroup>     
+<tr>
+<td class="colleft para1" style="padding: 10px 0px 10px 0px; margin: 0px 0px 0px 10px;""><p>Chinese Hacky Sack was formally declared as a national sport in 1933 at the fifth National Sports meeting held in Nanjing, China. In June, 1961, a highly successful movie surrounding the sport created another wave of popularity in the country. Elementary schools started incorporating Jianzi in the physical education. The sport eventually made its way to Germany around the 1930’s and has been slowly gaining popularity across the continent since then.
+    </p></td>
+<td><img alt="" src="/images/jianzi2.jpg" alt="" style="width: 180px; height: 150px;"/><br />
+</td>
+</tr>
+</table>
+</td></tr>
+<tr><td><p>The International Shuttlecock Federation was founded in 1999. It recurrently holds World Shuttlecock Championship in different countries all around the world. The next World Shuttlecock Championship will take place in Hochiminh City, Vietnam in July 2013.
+    </p></td></tr>    
+  
+  
+
+
+
+    <!--#include virtual="/db_footer.html"-->
+</table>  
+ 
+   </body>
+    </html>

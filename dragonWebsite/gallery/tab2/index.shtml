@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+
+<SCRIPT type="text/javascript" src="/gallery/showimage.js"></SCRIPT>
+<SCRIPT type="text/javascript">
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<link rel="stylesheet" type="text/css" href="/gallery/gallery.css" />
+<STYLE type="text/css">
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+<CENTER>
+<TABLE width=755px>
+<TR><TD>
+<DIV id=menubarx>
+<DIV id=selc2>
+<!--#include virtual="/gallery/img_menubar.html"-->
+</DIV>
+</DIV>
+</TR>
+<TR><TD valign=middle align=center>
+<!-- photos here -->
+Click on images for larger version<BR>
+<!--#include file="./img_list.html" -->
+</TR>
+</TABLE>
+</CENTER>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

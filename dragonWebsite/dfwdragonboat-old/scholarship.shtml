@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+
+<TD align=left valign=top style="padding-left: 15px;">
+<H2>The Marco Polo World Foundation Scholarship
+$2000.00 in Combined Scholarship Awards in May 2012!
+</H2>		
+<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		
+<td colspan="3" class="para1" >
+<div class="subtitle">About the Marco Polo World Foundation Scholarship </div>
+<p style="color: White">Marco Polo World Foundation is a non-profit 501(c) (3) organization founded in 2007. We are a non-religious and non-partisan organization with a sole focus of promoting intercultural understanding. Our mission is to introduce to our community the sport of dragon boat racing, and to showcase Asian culture. We launched the Annual DFW Dragon Boat, Kite and Lantern Festival as an effort to pursue our mission, and to celebrate the Asian-Pacific American Heritage Month. Through this festival, we hope to bring together individuals and organizations from all different sectors of the community, and encourage local, regional and international interaction. This year, Marco Polo World Foundation is expanding the effort of pursuing our mission by offering scholarship awards to high school and college students who show dedication to promoting intercultural understanding.</p>
+<br />
+<div class="subtitle">Description</div>
+<p style="color: White">In recognition of student volunteerism in our county, the Marco Polo World Foundation Scholarship Committee has established scholarships for students from high school seniors to the 2nd year college students (full time students) in the greater DFW area.</p>
+<br />
+<p style="color: White">The Marco Polo World Foundation Scholarships recognize individuals who have made significant contributions to the community through their volunteer efforts. Different from most other scholarships, the Marco Polo World Foundation Scholarships place more emphasis on a student’s demonstrated interest and efforts in serving his/her community than on academic or athletic excellence. It is the goal of the Marco Polo World Foundation to provide opportunities and to encourage students to become active in their community through volunteer service.</p>
+<br />
+<div class="subtitle">Criteria for Selection  </div>
+<p style="color: White">•	To be eligible for the 2012 Marco Polo World Foundation Scholarships, applicants must demonstrate contributions to their local community through volunteer services between 2010 and 2011. 
+</p>
+<p style="color: White">•	Applicants must provide a minimum of three references by relevant authorities along with their applications.</p>
+<br />
+<div class="subtitle">Deadline:  May 8th, 2012 </div>
+<p style="color: White">•	Click <a href="/forms/Marco Polo World Foundation 2012 Scholarship Application form.pdf"> <span style="font-size: medium">Scholarship Application Form</span></a> to download the application form.  
+</p>
+<p style="color: White">•	Applications are due by the close of Teuesday,  May 8th and should be emailed to <a href="mailto:scholarship@dfwdragonboatfestival.com">scholarship@dfwdragonboatfestival.com</a> </p>
+<p style="color: White"> •	Mailed to Marco Polo World Foundation, P.O. Box 631451, Irving, Texas 75063
+</p>
+<br />
+<div class="subtitle">Selection Process </div>
+<p style="color: White">The Marco Polo World Foundation Scholarship Committee thoroughly reviews all submitted applications immediately after the submission deadline. A consensus will be made among the Committee members at the end of the evaluation process. 
+
+</p>
+<p style="color: White">Applicants’ references and history of volunteer services are directly compared to each other’s; the outstanding applicants will be awarded the scholarship(s). The number of recipients and the amount of each award are decided based on overall applicant qualification and available funding.</p>
+<br />
+<div class="subtitle">Announcement and Presentation of Awards   </div>
+<p style="color: White">The recipients of the Marco Polo World Foundation Scholarships will be notified as soon as the decisions are made. The awards will be presented on stage at the 2012 Annual DFW Dragon Boat, Kite and Lantern by Marco Polo World Foundation on May 20th.</p>
+<br />
+<div class="subtitle">Questions </div>
+<p style="color: White">For more information or inquiries, please contact Marco Polo World Foundation Scholarships at (317) 332-5681 or  <a href="mailto:scholarship@dfwdragonboatfestival.com">scholarship@dfwdragonboatfestival.com</a></p>
+<BR>
+</TD>
+		<TD class="colright para1" valign=top>
+<!--
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+
+<IMG src="/images/program_5.gif"><BR>
+-->
+<IMG src="/images/scholarship photo.jpg" style="width:150; height:200">
+</TD>
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

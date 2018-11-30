@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript">
+<!--        script-->
+</script>
+    <link rel="stylesheet" type="text/css" href="/dragon.css" />
+    <style type="text/css"><!--stylesheet--></style>
+</head>
+<body>
+    <center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0">
+<tbody>
+<tr>
+<td class="colleft para1">
+<!--div class="subtitle">Festival Host</div-->
+
+<!--
+<!--
+<div class="subtitle">About Marco Polo World Foundation (MPWF)</div>
+Marco Polo World Foundation <br />
+<br />
+About Marco Polo World Foundation (MPWF)<br />
+<br /-->
+
+
+<br />
+<br />
+
+<div class="subtitle">2013 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</div>
+All event organizers and staff are volunteers from the community.<br />
+
+  We would like to express our sincere thanks to our sponsors and for the strong community support we received in making this premier event a reality.
+<br /><br /><br />
+
+
+<table class ="dragon-table">
+<tr>
+<td><span style="padding: 0px 60px"><img alt="" src="/images/chair chris wallace.jpg"  ></span></td>
+<td><span style="padding: 0px 130px"><img alt="" src="/images/chair Linda Harper-Brown 2013.jpg" ></span></td>
+<td><span style="padding: 0px 30px"><img alt="" src="/images/Chair Merna Parcon.jpg" ></span></td></tr>
+
+
+<tr>
+<td><p>2013 Festival Chair: Chris E. Wallace</p></td>
+<td>
+<p>Honorary Co-Chair: Hon. State Representative Linda Harper-Brown</p></td>
+<td><p>Co-Chair: Merna Parcon</p></td>
+</tr></table>
+
+<table class ="dragon-table">
+<tr align="center">
+<td><img alt="" src="/images/committee2013.jpg" style="width: 400px; height:280px;"/></td>
+</tr>
+<br />
+<br /><br /><br />
+
+<tr align="center">
+<td><p> 2013 Annual DFW Dragon Boat, Kite and Lantern Festival Committee </p></td>
+
+</tr></table>
+<br />
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="subtitle">2012 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</div>
+
+
+<br />
+<table class ="dragon-table">
+<tr>
+<td><img alt="" src="/images/chair Ke Bi's portrait picture.jpg"  ></td>
+<td><img alt="" src="/images/Chair Shirley Xiang.jpg" ></td>
+<td><img alt="" src="/images/Chair hh.jpg" ></td>
+<td><img alt="" src="/images/Chair Jame Huang IMG_2536.jpg" ></td>
+<td><img alt="" src="/images/Chair Merna Parcon.jpg" ></td></tr>
+
+
+<tr>
+<td><p>2012 Festival Chair: Ke Bi</p></td>
+<td>
+<p>Co-Chair: Shirley Xiang</p></td>
+<td><p>Co-Chair: Hua Huang</p></td>
+<td><p>Co-Chair: James Huang</p></td>
+<td><p>Co-Chair: Merna Parcon</p></td>
+</tr></table>
+
+<table class ="dragon-table">
+<tr align="center">
+<td><img alt="" src="/images/committee2012.jpg" style="width: 400px; height:280px;"/></td>
+</tr>
+<tr align="center">
+<td><p>2012 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</p></td>
+
+</tr></table>
+<!--td class="colright para1"-->
+
+<table class ="dragon-table">
+<colgroup>
+<col style=" width:100px" />
+<col style=" width:810px"/>
+</colgroup>
+<tr>
+<!--
+<td><img alt="" src="/images/ex co-founder Headshot-LM 004-1024x768.jpg"  />
+</td>
+<td><p><span>Lily Mak</span> </p><p>Co-Founder of Marco Polo World Foundation</p>
+</td>
+-->
+</tr>
+</table>
+
+<br />
+
+<br />
+<br />
+<!--right content-->	<!--/td--></tr></tbody></table></td></tr>
+
+
+<!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

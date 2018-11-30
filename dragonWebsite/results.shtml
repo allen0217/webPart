@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+
+<script type="text/javascript" src="/js/2007results.js"></script>
+<script type="text/javascript" src="/js/2008results.js"></script>
+<script type="text/javascript" src="/js/2009results.js"></script>
+<script type="text/javascript" src="/js/2010results.js"></script>
+<script type="text/javascript" src="/js/2011results.js"></script>
+<script type="text/javascript" src="/js/2012results.js"></script>
+<script type="text/javascript" src="/js/2013results.js"></script>
+<script type="text/javascript" src="/js/2014results.js"></script>
+<script type="text/javascript" src="/js/20072.js"></script>
+<script type="text/javascript" src="/js/20075.js"></script>
+<SCRIPT type="text/javascript">
+function ShowResults(theyear)
+{
+	if(theyear == "2017")
+		document.getElementById('results').innerHTML = results20075;
+   else if (theyear == "2016")
+	    document.getElementById('results').innerHTML = results20072;
+   else if (theyear == "2007")
+	    document.getElementById('results').innerHTML = results2007;
+	else if(theyear == "2008")
+		document.getElementById('results').innerHTML = results2008;
+
+	else if(theyear == "2009")
+		document.getElementById('results').innerHTML = results2009;
+
+	else if(theyear == "2010")
+		document.getElementById('results').innerHTML = results2010;
+
+	else if(theyear == "2011")
+		document.getElementById('results').innerHTML = results2011;
+	else if (theyear == "2012")
+	    document.getElementById('results').innerHTML = results2012;
+	else if (theyear == "2013")
+	    document.getElementById('results').innerHTML = results2013;
+	else if (theyear == "2014")
+	    document.getElementById('results').innerHTML = results2014;
+
+}
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+<!-- stylesheet -->
+.colright IMG {margin-bottom: 25px;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD colspan=3 class="para1" style="padding: 10px 0px 10px 0px;">
+		<A href="javascript: ShowResults('2017');" style="padding-right: 40px; text-decoration: underline;">2017</A>
+		<A href="javascript: ShowResults('2016');" style="padding-right: 40px; text-decoration: underline;">2016</A>
+		<A href="javascript: ShowResults('2014');" style="padding-right: 40px; text-decoration: underline;">2014</A>
+		<A href="javascript: ShowResults('2013');" style="padding-right: 40px; text-decoration: underline;">2013</A>
+		<A href="javascript: ShowResults('2012');" style="padding-right: 40px; text-decoration: underline;">2012</A>
+		<A href="javascript: ShowResults('2011');" style="padding-right: 40px; text-decoration: underline;">2011</A>
+		<A href="javascript: ShowResults('2010');" style="padding-right: 40px; text-decoration: underline;">2010</A>
+		<A href="javascript: ShowResults('2009');" style="padding-right: 40px; text-decoration: underline;">2009</A>
+		<A href="javascript: ShowResults('2008');" style="padding-right: 40px; text-decoration: underline;">2008</A>
+		<A href="javascript: ShowResults('2007');" style="padding-right: 40px; text-decoration: underline;">2007</A>
+	</TR>
+	<TR>
+		<TD id=results class="colleft para1" valign=top>
+<!--left content-->
+		<TD class="colright para1" valign=top>
+<!--right content-->
+			<IMG src="/images/results_1.gif">
+			<IMG src="/images/results_2.gif">
+			<IMG src="/images/results_3.gif">
+			<IMG src="/images/results_4.gif">
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+<SCRIPT type="text/javascript">
+ShowResults('2017');
+</SCRIPT>
+</BODY>
+</HTML>

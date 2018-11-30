@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript">
+<!--        script-->
+</script>
+    <link rel="stylesheet" type="text/css" href="/dragon.css" />
+    <style type="text/css">
+        .schedule
+        {
+            text-align: left;
+            padding-left: 20px;
+            padding-bottom: 8px;
+            color: white;
+        }
+        TABLE TD
+        {
+            color: gold;
+        }
+    </style>
+
+</head>
+<body>
+    <center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0">
+<tbody>
+<tr>
+<td class="colleft para1">
+<!--div class="subtitle">Festival Host</div-->
+
+<!--
+<!--
+<div class="subtitle">About Marco Polo World Foundation (MPWF)</div>
+Marco Polo World Foundation <br />
+<br />
+About Marco Polo World Foundation (MPWF)<br />
+<br /-->
+
+
+<br />
+<br />
+
+<div class="subtitle">2014 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</div>
+All event organizers and staff are volunteers from the community.<br />
+
+  We would like to express our sincere thanks to our sponsors and for the strong community support we received in making this premier event a reality.
+<br /><br /><br />
+
+
+<table class ="dragon-table">
+<tr>
+<td><span style="padding: 0px 60px"><img alt="" src="/images/chair ying_liang_2014.jpg"  ></span></td>
+<td><span style="padding: 0px 130px"><img alt="" src="/images/chair Linda Harper-Brown 2013.jpg" ></span></td>
+<!--
+<td><span style="padding: 0px 30px"><img alt="" src="/images/Chair Merna Parcon.jpg" ></span></td>
+-->
+</tr>
+
+
+<tr>
+<td><p>2014 Festival Chair: Ying Liang</p></td>
+<td>
+<p>Honorary Co-Chair: Hon. State Representative Linda Harper-Brown</p></td>
+<!--
+<td><p>Co-Chair: Merna Parcon</p></td>
+-->
+</tr></table>
+
+<table class ="dragon-table">
+<tr align="center">
+<td><img alt="" src="/images/committee2014.jpg" style="width: 400px; height:280px;"/></td>
+</tr>
+<br />
+<br /><br /><br />
+
+<tr align="center">
+<td><p> 2014 Annual DFW Dragon Boat, Kite and Lantern Festival Committee </p></td>
+
+</tr></table>
+<br />
+
+    
+<TABLE id=proglayout class=para1 style="margin-left: 30px; border-collapse: collapse;">
+
+<TR><TD valign=top colspan=2>Committee Member Name and Position</TR>
+<TR><TD valign=top colspan=2><HR></TR>
+
+<TR><TD align=right valign=top >2014 Festival Chair 
+<TD class=schedule>Ying Liang<BR>
+</TR>
+<TR><TD align=right valign=top>Honorary Co- Chair
+<TD class=schedule>Linda Harper Brown (State Representative,District 105)<BR>
+
+</TR>
+<TR><TD align=right valign=top>Co-chairs
+<TD class=schedule>Merna Parcon<BR>
+
+</TR>
+<TR><TD align=right valign=top>Social Media
+<TD class=schedule>Matt Nauman, Phillip Teng<BR>
+
+</TR>
+
+<TR><TD align=right valign=top>Boat racing
+<TD class=schedule>Oliver, Kenn Madsen, Feng Zhang, Freddy Wang<BR>
+</tr>
+
+<TR><TD align=right valign=top>MC
+<TD class=schedule>Edgar Santiago<BR>
+</TR>
+
+<TR><TD align=right valign=top>MC for Dragon Boating
+<TD class=schedule>Chris Arnold, Lori Hoff<BR>
+</TR>
+
+<TR><TD align=right valign=top>Culture Program Coordinator
+<TD class=schedule>Lan Hu, Merna Parcon<BR>
+</tr>
+<TR><TD align=right valign=top>Demonstrations & Classes
+<TD class=schedule>Jessica Pao<BR>
+</TR>
+<TR><TD align=right valign=top>Public relations
+<TD class=schedule>Jim Minoru Makita, Tingting Liu, Alejandra Reyes, Andy Wang, Phillip Teng, Leo Liu <BR>
+</TR>
+
+
+<TR><TD align=right valign=top>Volunteer Coordinator
+<TD class=schedule>Ying Dong, Mitchell Mays, Sissi Wang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Media
+<TD class=schedule>Minoru Makita, Jinhong Liu, Alejandra Reyes<BR>
+</TR>
+
+<TR><TD align=right valign=top>Vendors
+<TD class=schedule>Angela Chen, Linda Lai<BR>
+</TR>
+
+<TR><TD align=right valign=top>Logistics
+<TD class=schedule>Linda Li, Gang Hu, Boyang Liu, Wen Zhou, Shirley Xiang, Huang Hua<BR>
+</TR>
+
+<TR><TD align=right valign=top>Lantern Coordinator 
+<TD class=schedule>Sophie Luo<BR>
+</TR>
+
+<TR><TD align=right valign=top>Raffle Coordinator
+<TD class=schedule>Mel Krater, Rachel Wang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Webmaster 
+<TD class=schedule>Ying Liang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Artwork/Program Design 
+<TD class=schedule>Gang Hu<BR>
+</TR>
+
+<TR><TD align=right valign=top>children activity Coordinator 
+<TD class=schedule>Jessica Pao, Yanwen Zhu<BR>
+</TR>
+
+
+<TR><TD align=right valign=top>VIP Coordinator 
+<TD class=schedule>Tingting Liu <BR>
+</TR>
+
+<TR><TD align=right valign=top>Awards Coordinator 
+<TD class=schedule>Mel Krater<BR>
+</TR>
+
+<TR><TD align=right valign=top>Shuttlecock kicking Coordinator
+<TD class=schedule>Rusen Han<BR>
+</TR>
+
+
+<TR><TD align=right valign=top>Kite flying Coordinator 
+<TD class=schedule>Jessica Pao<BR>
+</TR>
+
+<TR><TD align=right valign=top>Scholarship Program
+<TD class=schedule>David Hanley<BR>
+</TR>
+
+<TR><TD align=right valign=top>Internship Program
+<TD class=schedule>Lan Hu<BR>
+</TR>
+
+<TR><TD align=right valign=top>Membership Program
+<TD class=schedule>Mel Krater, Rachel Wang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Legal Advisor 
+<TD class=schedule>Polsinelli Law Firm<BR>
+
+</TR>
+<TR><TD align=right valign=top>Appointed Photographer 
+<TD class=schedule>North Texas Asian Photographers Association (NTAPA)<BR>
+
+</TR>
+
+<TR><TD valign=top colspan=2><HR></TR>
+
+</TABLE>
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+<div class="subtitle">2013 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</div>
+All event organizers and staff are volunteers from the community.<br />
+
+  We would like to express our sincere thanks to our sponsors and for the strong community support we received in making this premier event a reality.
+<br /><br /><br />
+
+
+<table class ="dragon-table">
+<tr>
+<td><span style="padding: 0px 60px"><img alt="" src="/images/chair chris wallace.jpg"  ></span></td>
+<td><span style="padding: 0px 130px"><img alt="" src="/images/chair Linda Harper-Brown 2013.jpg" ></span></td>
+<td><span style="padding: 0px 30px"><img alt="" src="/images/Chair Merna Parcon.jpg" ></span></td></tr>
+
+
+<tr>
+<td><p>2013 Festival Chair: Chris E. Wallace</p></td>
+<td>
+<p>Honorary Co-Chair: Hon. State Representative Linda Harper-Brown</p></td>
+<td><p>Co-Chair: Merna Parcon</p></td>
+</tr></table>
+
+<table class ="dragon-table">
+<tr align="center">
+<td><img alt="" src="/images/committee2013.jpg" style="width: 400px; height:280px;"/></td>
+</tr>
+<br />
+<br /><br /><br />
+
+<tr align="center">
+<td><p> 2013 Annual DFW Dragon Boat, Kite and Lantern Festival Committee </p></td>
+
+</tr></table>
+<br />
+
+	
+<TABLE id=proglayout class=para1 style="margin-left: 30px; border-collapse: collapse;">
+
+<TR><TD valign=top colspan=2>Committee Member Name and Position</TR>
+<TR><TD valign=top colspan=2><HR></TR>
+
+<TR><TD align=right valign=top >2013 Festival Chair 
+<TD class=schedule>Chris E. Wallace - CEO of Greater Irving-Las Colinas Chamber of Commerce<BR>
+</TR>
+<TR><TD align=right valign=top>Honorary Co- Chair
+<TD class=schedule>Linda Harper Brown (State Representative,District 105)<BR>
+
+</TR>
+<TR><TD align=right valign=top>Co-chairs
+<TD class=schedule>Merna Parcon<BR>
+
+</TR>
+<TR><TD align=right valign=top>Social Media
+<TD class=schedule>Matt Nauman , Da Qian<BR>
+
+</TR>
+<TR><TD align=right valign=top>Committee Coordinator 
+<TD class=schedule>Lucia LingJing Liu<BR>
+
+</TR>
+<TR><TD align=right valign=top>Boat racing
+<TD class=schedule>Ying Wang, Kenn Madsen, Feng Zhang, Jay Hng, Chenran Lei<BR>
+</tr>
+
+<TR><TD align=right valign=top>MC
+<TD class=schedule>Sam Liu, Edgar Santiago, Molly Thornton,Crystal Cameron, Chris Arnold<BR>
+</TR>
+
+<TR><TD align=right valign=top>Culture Program Coordinator
+<TD class=schedule>Lan Hu, Merna Parcon<BR>
+</tr>
+<TR><TD align=right valign=top>Demonstrations & Classes
+<TD class=schedule>Min Fen Pao<BR>
+</TR>
+<TR><TD align=right valign=top>Public relations
+<TD class=schedule>Bing Mu, Makita Minoru, Yingyue Zheng, Gang Hu, David Hanley, Fisher Jiaxing Yu, Matt Nauman, <br />
+Liang Yue, Brigitte Haining Xu, Jiaqing Jiang, Wen Zhou, Yuan Zhao<BR>
+</TR>
+
+
+<TR><TD align=right valign=top>Volunteer Coordinator
+<TD class=schedule>Ying Dong, Aseem Hegshetye, Mitchell Mays, Haiyan Yu, Brian Ce Bian.<BR>
+</TR>
+
+<TR><TD align=right valign=top>Media
+<TD class=schedule>Minoru Makita, Jinhong Liu, Fleck, Deborah<BR>
+</TR>
+
+<TR><TD align=right valign=top>Vendors
+<TD class=schedule>Angela Chen.<BR>
+</TR>
+
+<TR><TD align=right valign=top>Logistics
+<TD class=schedule>Kenn Madsen, Rusen Han, Gang Hu, James Huang. Yingyue Zheng,<BR>
+</TR>
+
+<TR><TD align=right valign=top>Lantern Coordinator 
+<TD class=schedule>Wei Zhang, Cheryle Wenyi Chen<BR>
+</TR>
+
+<TR><TD align=right valign=top>Raffle Coordinator
+<TD class=schedule>Mel Krater , Jinhong Liu, Yu Wang, Yin Cai<BR>
+</TR>
+
+<TR><TD align=right valign=top>Webmaster 
+<TD class=schedule>Ying Liang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Artwork/Program Design 
+<TD class=schedule>Shirley Che<BR>
+</TR>
+
+<TR><TD align=right valign=top>children activity Coordinator 
+<TD class=schedule>Brigitte Haining Xu<BR>
+</TR>
+
+
+<TR><TD align=right valign=top>VIP Coordinator 
+<TD class=schedule>Gavin Yu Wang<BR>
+</TR>
+
+<TR><TD align=right valign=top>Awards Coordinator 
+<TD class=schedule>Mel Krater<BR>
+</TR>
+
+<TR><TD align=right valign=top>Shuttlecock kicking Coordinator
+<TD class=schedule>Rusen Han, Yin Cai<BR>
+</TR>
+
+
+
+
+<TR><TD align=right valign=top>Kite flying Coordinator 
+<TD class=schedule>Sunny Jin<BR>
+</TR>
+
+<TR><TD align=right valign=top>Scholarship Program
+<TD class=schedule>Ying Liang, Jim Minoru Makita, David Hanley<BR>
+</TR>
+
+<TR><TD align=right valign=top>Internship Program
+<TD class=schedule>Lan Hu<BR>
+</TR>
+
+<TR><TD align=right valign=top>Membership Program
+<TD class=schedule>Mel Krater<BR>
+</TR>
+
+<TR><TD align=right valign=top>Legal Advisor 
+<TD class=schedule>Bailey & Galyen<BR>
+
+</TR>
+<TR><TD valign=top colspan=2><HR></TR>
+
+</TABLE>
+
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="subtitle">2012 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</div>
+
+
+<br />
+<table class ="dragon-table">
+<tr>
+<td><img alt="" src="/images/chair Ke Bi's portrait picture.jpg"  ></td>
+<td><img alt="" src="/images/Chair Shirley Xiang.jpg" ></td>
+<td><img alt="" src="/images/Chair hh.jpg" ></td>
+<td><img alt="" src="/images/Chair Jame Huang IMG_2536.jpg" ></td>
+<td><img alt="" src="/images/Chair Merna Parcon.jpg" ></td></tr>
+
+
+<tr>
+<td><p>2012 Festival Chair: Ke Bi</p></td>
+<td>
+<p>Co-Chair: Shirley Xiang</p></td>
+<td><p>Co-Chair: Hua Huang</p></td>
+<td><p>Co-Chair: James Huang</p></td>
+<td><p>Co-Chair: Merna Parcon</p></td>
+</tr></table>
+
+<table class ="dragon-table">
+<tr align="center">
+<td><img alt="" src="/images/committee2012.jpg" style="width: 400px; height:280px;"/></td>
+</tr>
+<tr align="center">
+<td><p>2012 Annual DFW Dragon Boat, Kite and Lantern Festival Committee</p></td>
+
+</tr></table>
+<!--td class="colright para1"-->
+
+<table class ="dragon-table">
+<colgroup>
+<col style=" width:100px" />
+<col style=" width:810px"/>
+</colgroup>
+<tr>
+<!--
+<td><img alt="" src="/images/ex co-founder Headshot-LM 004-1024x768.jpg"  />
+</td>
+<td><p><span>Lily Mak</span> </p><p>Co-Founder of Marco Polo World Foundation</p>
+</td>
+-->
+</tr>
+</table>
+
+<br />
+
+<br />
+<br />
+<!--right content-->	<!--/td--></tr></tbody></table></td></tr>
+
+
+<!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

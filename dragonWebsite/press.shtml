@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+    <meta charset="UTF-8" />
+<TITLE>DFW Dragon Boat Festival</TITLE>
+
+<script type="text/javascript" src="/js/newslinks.js"></script>
+<script type="text/javascript" src="/js/release2007.js"></script>
+<script type="text/javascript" src="/js/release2008.js"></script>
+<script type="text/javascript" src="/js/release2009.js"></script>
+<script type="text/javascript" src="/js/release2010.js"></script>
+<script type="text/javascript" src="/js/release2012.js"></script>
+<script type="text/javascript" src="/js/release2013.js"></script>
+<script type="text/javascript" src="/js/release2014.js"></script>
+<script type="text/javascript" src="/js/release2016.js"></script>
+<SCRIPT type="text/javascript">
+var expand = 1;
+
+function ShowLinks()
+{
+	if(expand==1)
+		document.getElementById('newslinks').innerHTML = newslinks;
+	else
+		document.getElementById('newslinks').innerHTML = "";
+
+	expand = -expand;
+}
+
+function ShowRelease(theone) {
+    if (theone == 2016) {
+        document.getElementById('newslinks').innerHTML = release2016;
+    }
+   
+     if (theone == 2013) {
+        document.getElementById('newslinks').innerHTML = release2013;
+        document.getElementById('newspaperimage').innerHTML = '<img src="/images/2013chinesenews.png" />';    
+   }
+    else {
+        document.getElementById('newspaperimage').innerHTML = '';    
+        if (theone == 2007)
+            document.getElementById('newslinks').innerHTML = release2007;
+        else if (theone == 2008)
+            document.getElementById('newslinks').innerHTML = release2008;
+        else if (theone == 2009)
+            document.getElementById('newslinks').innerHTML = release2009;
+        else if (theone == 2010)
+            document.getElementById('newslinks').innerHTML = release2010;
+        else if (theone == 2012)
+            document.getElementById('newslinks').innerHTML = release2012;
+        else if (theone == 2013)
+            document.getElementById('newslinks').innerHTML = release2013;
+		else if (theone == 2014)
+            document.getElementById('newslinks').innerHTML = release2014;
+    }
+	expand = 1;
+}
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+<!--stylesheet-->
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top>
+	<TABLE style="border-collapse: collapse; width:100%; border:0;">
+	<TR>
+		<TD colspan=3 class="para1" style="padding: 10px;">
+		<A href="javascript: ShowLinks();" style="text-decoration: underline;">Display News Stories</A><BR><BR>
+		<A href="javascript: ShowRelease(2007);" style="text-decoration: underline;">Press Release &#151; 2007</A><BR>
+		<A href="javascript: ShowRelease(2008);" style="text-decoration: underline;">Press Release &#151; 2008</A><BR>
+		<A href="javascript: ShowRelease(2009);" style="text-decoration: underline;">Press Release &#151; 2009</A><BR>
+		<A href="javascript: ShowRelease(2010);" style="text-decoration: underline;">Press Release &#151; 2010</A><BR>
+		<A href="javascript: ShowRelease(2012);" style="text-decoration: underline;">Press Release &#151; 2012</A><br />
+		<A href="javascript: ShowRelease(2013);" style="text-decoration: underline;">Press Release &#151; 2013</A><br />
+        <A href="javascript: ShowRelease(2014);" style="text-decoration: underline;">Press Release &#151; 2014</A><br />
+		<A href="javascript: ShowRelease(2016);" style="text-decoration: underline;">Press Release &#151; 2016</A><br />
+ <!--       <p><a href="http://www.worldjournal.com/view/full_txi_14/25134858/article-達福龍舟節-萬名遊客同歡?instance=tx_story1"  target ="_blank"  >世界日報5月20日 龍舟賽新聞 --世界新聞網： 達福龍舟節-萬名遊客同歡</a></p>
+-->
+        </TD>    
+	</TR>
+    <!-- newpaper news image container -->
+    <tr><td colspan="3" id="newspaperimage"></td></tr>    
+ 	<TR>
+        <!--left content-->
+		<TD id=newslinks  class="para1" colspan="2"></TD>
+        <!--right content-->
+		<TD class="colright para1">
+            <img src="images/ted-cruz.jpg" width="160" height="100" /><br />
+            <IMG src="images/DallasMayor2012.jpg" width="160" height="100" ><BR>
+            <IMG src="/images/press-mayor.jpg" width="160" height="100" ><BR>
+            <IMG src="/images/press-boat.jpg" width="180" height="100" ><BR>
+            <IMG src="/images/press-team.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image111.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image112.jpg" width="180" height="100"  ><BR>
+			<IMG src="/images/Image113.jpg"width="180" height="100"  ><BR>
+			<IMG src="/images/Image114.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image115.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image116.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image117.jpg" width="180" height="100" ><BR>
+			<IMG src="/images/Image118.jpg" width="180" height="100" ><BR>
+			
+        </TD>
+    </TR>    
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+<SCRIPT type="text/javascript">   
+ShowRelease('2016');
+</SCRIPT>
+</BODY>
+</HTML>

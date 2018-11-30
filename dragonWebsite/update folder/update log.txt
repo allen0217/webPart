@@ -1,0 +1,26 @@
+Update file
+
+6/21/2013
+	updated cover picture to next years date
+	changes to the appreciation_award.shtml, removed committee picture
+	removed Adobe link from index.shtml + minor cosmetic changes
+	
+6/20/2013
+	added class to dragon.css
+	updated appreciation_award.shtml
+	updated index.shtml
+	changed linked in button once more
+	minor changes to dragon-new.css
+
+6/17/2013
+	added LinkedIn link to Kenn's picture in appreciation_award.shtml
+	formated dragon.css and dragon-new.css
+	formated appreciation_award.shtml
+	
+6/14/2013
+	removed 2013 sponsor letter from sponsor.shtml
+	added Adobe Reader link to index.shtml and removed it from sponsors.shtml
+	
+6/13/2013
+	added Irving-TV link
+	added 2014 Sponsorletter link to index.shtml + pdf to /forms

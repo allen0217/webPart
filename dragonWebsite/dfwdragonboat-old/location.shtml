@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+map = -1;
+
+function SwapMap()
+{
+	map = -map;
+	if(map==1)
+		document.getElementById("map_image").innerHTML = "<IMG src=\"/images/map_1.gif\">";
+	else
+		document.getElementById("map_image").innerHTML = "<IMG src=\"/images/map_2.gif\">";
+}
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD class="colleft para1" valign=top>
+<CENTER>
+<DIV class=subtitle>2012 Annual DFW Dragon Boat, Kite, and Lantern Festival</DIV>
+Sunday May 20, 2012<BR>
+8:30am to 6:00pm<BR>
+Lake Carolyn, Irving, Texas<BR>(at the Las Colinas Urban Center)
+</CENTER>
+<BR><BR>
+<DIV id=map_image><IMG src="/images/map_2.gif"></DIV><BR>
+<A href="javascript: SwapMap(this);"><CENTER style="font-size: 14pt;">Change map</CENTER></A>
+<BR>
+<CENTER><A href="DirectionsFestival.pdf">Driving Directions</A><BR>
+<A href="FestivalLayout.pdf">Festival Layout</A></CENTER>
+<BR><BR>
+Free parking available on first come basis on northbound side of Lake Carolyn Parkway.<BR><BR>
+
+<!--left content-->
+		<TD class="colright para1" valign=top>
+<!--right content-->
+<IMG src="/images/location_1.gif"><BR>
+<IMG src="/images/location_2.gif"><BR>
+<IMG src="/images/location_3.gif"><BR>
+<IMG src="/images/location_4.gif">
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

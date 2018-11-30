@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+#proglayout > TD {text-align: right; color: green;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD class="colleft para1">
+<H2>Program</H2>			
+<TABLE id=proglayout class=para1 style="margin-left: 10px; border-collapse: collapse;">
+<TR><TD valign=top colspan=2>Main Stage
+</TR>
+
+<TR><TD style="width: 70px;">8:30 am
+<TD class=schedule>Kite and Lantern Festival Begins
+</TR>
+
+<TR><TD>10:00 am
+<TD class=schedule>Texas Performing Chinese Arts Orchestra  ----  MC: Sam Liu
+</TR>
+
+<TR><TD>10:30 am
+<TD class=schedule>Songs
+</TR>
+
+<TR><TD>10:38 am
+<TD class=schedule>Golden Autumn Dance Group - China
+</TR>
+
+<TR><TD>10:43 am
+<TD class=schedule>Chinese Harp by Emily LO  
+</TR>
+
+<TR><TD>10:55 am
+<TD class=schedule>
+Opening Ceremonies         ----  MC: Sam Liu<BR>
+Lion Dance                 ----  Lee's White Leopard<BR>
+Kung Fu School
+</TR>
+
+<TR><TD>11:00 am
+<TD class=schedule>
+Welcome Message  ----Diana  Meilan Wang, President of Marco Polo World Foundation<BR><BR>
+Host City Remarks ---- Mayor Herbert Gears, City of Irving<BR><BR>
+Guest Speakers :<BR>
+Resolution from The State of Texas<BR>
+Linda Harper Brown --- State Representative District 105<BR>
+Angie Chen Button --- State Representative District 112<BR><BR>
+City Proclamations:   <BR>
+City of Carrollton ----- Mayor Pro-Tem John Mahalik<BR>
+City of Addison ----- Mayor Joe Chow<BR>
+City of Plano ------ Mayor Phil Dyer<BR>
+City of Garland ----- Mayor Ronald Jones<BR><BR>
+Festival Chairs Remarks:<BR>
+Hannah Fang, Lily Mak, Merna Parcon
+</TR>
+
+<TR><TD>11:25 am
+<TD class=schedule>Dragon Dance ------Lee's White Leopard Kung Fu School
+</TR>
+
+<TR><TD>11:30 am
+<TD class=schedule>Dragon Boat Exhibition Race ---Houston Heat & Austin Coolers 
+</TR>
+
+<TR><TD>11:35 am
+<TD class=schedule>Golden Autumn Dance Group - China
+</TR>
+
+<TR><TD>11:40 am
+<TD class=schedule>Vietnamese dancing
+</TR>
+
+<TR><TD>11:45 am
+<TD class=schedule>Chinese dancing
+</TR>
+
+<TR><TD>11:50 am
+<TD class=schedule>Indian Classical dancing
+</TR>
+
+<TR><TD>11:55 am
+<TD class=schedule>Fortune Raffle, 20 prizes
+</TR>
+
+<TR><TD>12:05 pm
+<TD class=schedule>
+Cultural Show:---------- MC: Edgar Santiago<BR>
+Parade of Nations<BR>
+Lee's White Leopard Kung Fu School<BR>
+Wu Yi Shaolin Martial Arts Center<BR>
+Jiaping Shi Dance school- Chinese<BR>
+Maharlika Dancers - Philippines<BR>
+Selendang Mak Inang Dance - North Sumatra, Indonesia <BR>
+Cambodian dancing<BR>
+Vietnamese dancing<BR>
+Thai dancing<BR>
+Deva Banda Indian Classical Dance - India<BR>
+Thani Kayi Indian Classical Dance<BR>
+Keola's Hula Halau<BR>
+Shlokha and Alaripu Indian Classical Dance<BR>
+Korean dancig<BR>
+DFW Chanpuru Okinawa Society Eisa Drum Dance - Japan
+</TR>
+
+<TR><TD>12:50 pm
+<TD class=schedule>Fortune Raffles<BR>
+Cultural Show
+</TR>
+
+<TR><TD>2:00 pm
+<TD class=schedule>
+Start of Division Finals<BR>
+Cancer Awareness Race - Carnation Ceremony
+</TR>
+
+<TR><TD>5:15 pm
+<TD class=schedule>
+	Raffle Drawing—(Grand Prize  - one economy class round trip ticket from LAX to HKG 	provided by EVA Air)
+</TR>
+
+<TR><TD>3:00 PM
+<TD class=schedule>Fortune Raffles<BR>
+Cultural shows</TR>
+
+<TR><TD>4:00 pm
+<TD class=schedule>Fortune Raffles<BR>
+Cultural shows
+</TR>
+
+<TR><TD>4:30 pm
+<TD class=schedule>Grand Champion Race
+</TR>
+
+<TR><TD>5:00 pm
+<TD class=schedule>Awards Ceremony
+</TR>
+
+<TR><TD>5:15 pm
+<TD class=schedule>
+	Fortune Raffles (Grand Prize: One American Airlines airfare,<BR>international, round-trip coach class ticket $1,250.)<BR>
+Cultural show
+</TR>
+
+<TR><TD>6:00 pm
+<TD class=schedule>Closing remarks
+</TR>
+
+<TR><TD valign=top colspan=2><HR></TR>
+
+<TR><TD valign=top colspan=2>Demonstrations - Booth A
+</TR>
+
+<TR><TD>8:30 am
+<TD class=schedule>
+Dumpling Making
+</TR>
+
+<TR><TD>12 noon
+<TD class=schedule>Zhong Zi (Rice wrapped in bamboo leaves)
+</TR>
+
+<TR><TD valign=top colspan=2>Demonstrations - Booth B
+</TR>
+
+<TR><TD>8:30 am
+<TD class=schedule>
+Chinese Calligraphy
+</TR>
+
+<TR><TD>12 noon
+<TD class=schedule>
+Origami
+</TR>
+
+<TR><TD valign=top colspan=2>Demonstrations - Booth C
+</TR>
+
+<TR><TD>8:30 am
+<TD class=schedule>
+Face Painting</TR>
+
+<TR><TD>12 noon
+<TD class=schedule>
+Chinese Paper Cutting</TR>
+
+<TR><TD valign=top colspan=2>Demonstrations - Booth D
+</TR>
+
+<TR><TD>10:30 am
+<TD class=schedule>
+Kite Making Class</TR>
+
+<TR><TD>11:30 am
+<TD class=schedule>
+Lantern Riddles</TR>
+
+<TR><TD>11:40 am
+<TD class=schedule>
+Bamboo Dance</TR>
+
+<TR><TD>12:30 pm
+<TD class=schedule>
+Kite Making Class</TR>
+
+<TR><TD>2:30 pm
+<TD class=schedule>
+Kite Making Class</TR>
+
+<TR><TD>3:30 pm
+<TD class=schedule>
+Lantern Riddles</TR>
+
+<TR><TD>3:40 pm
+<TD class=schedule>
+Bamboo Dance</TR>
+
+<TR><TD>4:30 pm
+<TD class=schedule>
+Kite Making Class</TR>
+
+<TR><TD valign=top colspan=2><HR></TR>
+
+<TR><TD valign=top colspan=2>Dragon Boat Racing
+</TR>
+
+<TR><TD>7:30 am
+<TD class=schedule>Dragon Boat Race Team Registration 
+</TR>
+
+<TR><TD>8:30 am
+<TD class=schedule> First Round Dragon Boat Race Begins
+</TR>
+
+<TR><TD>11:45 am
+<TD class=schedule>2nd Round Dragon Boat Race Begins
+</TR>
+
+<TR><TD>2:00 pm
+<TD class=schedule>3rd Round Dragon Boat Race Begins
+</TR>
+
+<TR><TD>4:30 pm
+<TD class=schedule>Dragon Boat Race Grand Champion Race
+</TR>
+
+<TR><TD>5:00 pm
+<TD class=schedule>Awards Ceremony
+</TR>
+
+</TABLE>
+
+<BR>
+		<TD class="colright para1" valign=top>
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+<IMG src="/images/program_5.gif"><BR>
+<IMG src="/images/program_7.gif">
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

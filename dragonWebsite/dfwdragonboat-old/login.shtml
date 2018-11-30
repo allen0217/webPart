@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+A {text-decoration: none; color: gold;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+<CENTER>
+<A href="/team/team_user.php?login" style="color: white;">Team Captain</A>
+<HR width=10%>
+<A href="/vendor/ven_user.php?login" style="color: white;">Vendor</A>
+<HR width=10%>
+<A href="/sponsor/spn_user.php?login" style="color: white;">Sponsor</A>
+<HR width=10%>
+<A href="/admin/administrator.php?login" style="color: white;">Administrators</A>
+<BR><BR>
+</CENTER>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

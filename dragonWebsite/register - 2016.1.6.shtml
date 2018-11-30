@@ -1,0 +1,327 @@
+Corparate<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>2015 DFW Dragon Boat Festival</title>
+<script type="text/javascript">
+var teamflag = -1;
+function ShowTeams()
+{
+	if(teamflag == 1)
+		document.getElementById('teamlist').style.display = "none";
+	else
+		document.getElementById('teamlist').style.display = "block";
+	teamflag = -teamflag;
+}
+
+
+
+</script>
+<style>
+u { 
+    text-decoration: underline;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<style type="text/css"></style>
+</head>
+<body>
+<center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0" width="100%">
+<tbody>
+<tr>
+<td class="colleft para1">
+<p><!--left content-->
+<h2 style="color: gold">Team Registration</h2>
+
+
+
+To register your team for the Dragon Boat Race, the team captain must complete the registration form, ensure all team members have signed a Waiver Form, and submit the registration fee, list of team members and waivers before the team registration deadline date. All signed Waiver forms must be submitted by April 30th, 2015.  <br />
+
+<span style="color: gold; font-size: 10pt">EVERY participant (Paddler, Drummer, Alternate) MUST complete a Waiver</span><br />
+
+<br />
+<a href="/forms/waiveradult2016.pdf">Click here to download  Waiver Form for Adults</a><br />
+<br>
+<a href="/forms/waiverunder2016.pdf">Click here to download Waiver Form for under 18</a><br />
+<br />
+
+<h2 style="color: gold">Registration Deadlines and Fees</h2>
+
+
+
+
+<table style="width: 100%; border-collapse: collapse" summary="" border="1" bordercolor="#000000" cellpadding="3" cellspacing="0">
+<tbody>
+
+
+<tr valign="top">
+
+
+<td width="14%">
+<td align="center" colspan = "2">
+<p><font size="2">Early Registration</font></p></td>
+
+
+
+<td align="center" colspan = "2">
+<p><font size="2">Regular Registration<br />
+</font></p></td>
+
+
+
+
+<td align="center" colspan = "2">
+<p><font size="2">Late Registration<br />
+</font></p></td>
+
+
+
+
+</font></p></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td align="center" width="14%">
+<p><font size="2"></font></p></td>
+
+
+<td align="center" width="14%">
+<p><font size="2">Deadline<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">Fee<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">Deadline<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">Fee<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">Deadline<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">Fee
+
+</font></p></td></tr>
+
+
+
+<tr valign="top">
+
+<td align="center"  width="14%">
+<p><font size="2">Community Team</font></p></td>
+
+
+<td align="center" width="14%">
+<p><font size="2">02/15/2015<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">$900<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">04/15/2015<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">$1,000<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">04/30/2015*<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">$1,200
+
+</font></p></td></tr>
+
+
+
+<tr valign="top">
+
+<td align="center" width="14%">
+<p><font size="2"> Corporate Team    </font></p></td>
+
+
+<td align="center" width="14%">
+<p><font size="2">12/31/2014<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">$100 discount apply to <a href="sponsorletter.pdf" target="_blank">Sponsor Package </a><!-- <style="color: red" >--> <br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">04/15/2015<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2"><a href="sponsorletter.pdf" target="_blank">Sponsor Package </a> <br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">04/24/2015*<br />
+</font></p></td>
+
+<td align="center" width="14%">
+<p><font size="2">A late fee of $200 will be applied
+
+</font></p></td></tr>
+
+
+
+
+</tbody></table>
+
+
+
+
+
+
+<p> *Application is subjected to availability after late registration deadlines.</p>
+<br />
+
+<span style="color: gold; font-size: 10pt">Please note:</span><br />
+
+<p>1.	No merchandise sale and no outside food (including but not limited to BBQ, picnic, tailgate party, etc.) are allowed due to conflicting interest with event vendors and potential safety hazard.
+
+
+</p>
+<p>2.	If a team includes individual who is an active member of Marco Polo World Foundation, each WPWF membership will get a 10(Ten) dollars discount of the registration fee.
+</p>
+
+<br>
+<h2 style="color: gold">Eligibility and Requirements</h2>
+
+<p>COMMUNITY TEAM</p>
+<p>Community Teams division is intended for boy scouts/Girl Scouts, public schools, community service and individuals. There are limited number of community teams and special rate is available, please contact team@dfwdragonboatfestival.com to qualify. </p>
+<p>Community teams are not to conduct any commercial or marketing activity, and this includes but is not limited to, advertisements, soliciting, display of team banners, sale of any team merchandise, etc. Any promotional material will be removed and returned at the end of the festival. If the team violates this policy following a warning by MPWF, promotional material will be removed again, and the team will be responsible for a payment that equals the difference of registration fee of a community team versus that of a corporate team. This payment is due in full prior to the team being permitted to participate in the event. </p>  
+<p>Community team members are allowed to wear shirts and/or uniforms only displaying their own team names and logos. Wearing shirts and/or uniforms that shows logos or names other than the team name will cause the team to be upgraded to a corporate team and the team will be responsible for a payment that equals the difference of registration fee of a community team versus that of a corporate team. This payment is due in full prior to the team being permitted to participate in the event.</p>
+
+
+
+
+<a href="/forms/corporate2016.pdf">Download the Dragon Boat Racing Registration Form for corparate team</a><br />
+<br>
+<a href="/forms/community2016.pdf">Download the Dragon Boat Racing Registration Form for community team</a><br />
+
+<br>
+
+<h2 style="color: gold">On Practice Day & Festival Day</h2>
+<p><span style="color: black; font-size: 10pt">Team Practice</span><br /><span style="color: original; font-size: 10pt">May 14th, 2016 (practice times will be assigned)</span><br /></p>
+<p>Marina docks at west side of Lake Carolyn, Irving, Texas</p>
+<p>Lake Carolyn is located across from mustangs at Las Colinas</p>
+<br>
+<p><span style="color: black; font-size: 10pt">Festival Date</span><br /><span style="color: original; font-size: 10pt">May 15th, 2016 </span><br /></p>
+<p>Team check-in	7:30 AM (Team Check-in by Captains)</p>
+<p>Place Lake Carolyn, Irving, Texas</p>
+<br>
+
+
+
+<span style="color: gold; font-size: 10pt">For Fairness at the race following rules applies to the division or categories:</span><br />
+
+
+<p><u>Mixed Divisions</u> - Minimum of EIGHT FEMALE PADDLERS in the boat.  More females is OK.  More than 12 men in the boat will result in a penalty.</p>
+
+<p><u>Women's Division</u> - All paddlers must be women.  Any male paddlers on the boat will result in a penalty.</p>
+
+<p><u>Open Division(Also called Men's Division)</u>  - No restrictions on the number of men in the boat.  There can be women on the boat too.</p>
+
+<p>No previous experience is required. Participants must be able to swim. Trainers will be available the day before the race to train your team. Dragon boats, paddles, and PFDs (personal floatation devices) will be supplied by the Texas Dragon Boat Association.</p>
+
+
+
+<span style="color: gold; font-size: 10pt">Team leaders please note: </span><br />
+
+
+<p>Training Day, Saturday (May 14th, 2016) for all dragon boat teams</p>
+
+<p>Your one-hour training time will be assigned upon receipt of completed registration form and waivers. </p>
+
+<p>For best choice of available training times, turn in your registration forms early. </p>
+
+<p>Please assemble your team for hands-on practice at least half hour before your designated training time, on Lake Carolyn, Irving, Texas. The first 30 minutes will be spent on land working on warming up and getting a briefing on the sport and safety. This will be followed by about an hour of practice on the water. The last 30 minutes will be a cool down and stretching period. Note: all participants must have turned in a signed waiver to participate.</p>
+
+
+<p>Race Day, Sunday, May 15th, 2016</p>
+
+<p>Team captains check in their teams for day of race at 7:30 a.m. on Sunday, June 7th, 2015 at the Festival grounds. The team captain meeting will be held at 8:00 a.m. All teams must be assembled by 8:15 a.m., where the race roster where be distributed. We will then begin loading the boats and positioning the boats at the floating dock area. The first race will start at 9:00 a.m. The opening ceremony is at 10:30 a.m., followed by the start of the dragon boat races. Teams will be paddling two heats, followed by finals. (All times are approximate and subjuct to change. Please revisit our website regularly for updates) </p>
+
+
+
+
+
+
+
+
+
+<br /><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img alt="" src="/images/get_adobe_reader.gif" border="0" /></a><br />
+<br /></td>
+<td class="colright para1" style="padding-top: 25px" valign="top">
+<!--right content-->
+<!--
+<div style=" width:90%; border: 1px solid #eee; margin-bottom:16px; padding:8px;">
+<p style="font-size: large;">online payment is now available</p>
+<p style="font-size: small;">Select a team category below and click PAY NOW button. Follow instructions to pay with credit card</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4PT5Q6XU4JXB4">
+<table>
+<tr><td><input type="hidden" name="on0" value="Team Category">Team Category</td></tr><tr><td><select name="os0">
+	<option value="Corparate Team">Corparate Team $2,000.00 USD</option>
+	<option value="Community Team">Community Team $850.00 USD</option>
+</select> </td></tr>
+</table>
+<div style=" padding-top:16px;">
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</div>
+</form>
+</div>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4PT5Q6XU4JXB4">
+<table>
+<tr><td><input type="hidden" name="on0" value="Team Category">Team Category</td></tr><tr><td><select name="os0">
+	<option value="Corparate Team">Corparate Team $2,000.00 USD</option>
+	<option value="Community Team">Community Team $850.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+-->
+<img alt="" src="/images/register_1.gif" /><br />
+<img alt="" src="/images/register_2.gif" /><br />
+</td></tr></tbody></table></td></tr><!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

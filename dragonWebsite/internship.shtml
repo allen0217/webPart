@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+
+<TD align=left valign=top style="padding-left: 15px;">
+<H2>The Marco Polo World Foundation Launches Internship Program!
+</H2>		
+<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		
+<td colspan="3" class="para1" >
+<div class="subtitle">About the Marco Polo World Foundation </div>
+<p style="color: White">Marco Polo World Foundation is a non-profit 501 (c) (3) organization founded in 2007. We are a non-religious and non-partisan organization. Our mission is to promote intercultural understanding and acceptance of diversity in the community. We launched the Annual DFW Dragon Boat, Kite and Lantern Festival as an effort to pursue our mission, as well as to showcase international culture and to celebrate Asian-Pacific American Heritage Month. Through this festival, we hope to bring together individuals and organizations from all different sectors of the community, and encourage local, regional and international interaction.</p>
+<br />
+
+<div class="subtitle">Internships: Working For Your Future</div>
+<p style="color: White; font-style : italic">"The internship experience with Marco Polo World Foundation was wonderful, my mind had been opened to a wider world, I got to know that my strength was dealing with people, I met so many awesome people which made my life more beautiful."</p>
+
+<p style="color: White">Lan Hu, Former Development Intern</p>
+
+<div class="subtitle">The Benefits of This Internship</div>
+<p style="color: White">The Internship experience is meaningful on all levels.  As an intern in Marco Polo World Foundation, one can have a great opportunity to:
+ <ul style="color: White">
+<li>explore his/her self and the world, 
+<li>improve their organizational and interaction skills, 
+<li>expose to different job opportunities and expanded network of associates and professionals. 
+</ul>
+<br />
+<span style="color: White">Beyond the practical experience, our Interns receive a letter of recommendation for their future job orcareer. Our Internship program may translate into college credit. (If interested in obtaining college credit, please consult with your academic advisor prior to enrolling in this program.)
+</span>
+</p>
+
+<br />
+<div class="subtitle">Open Internship Positions </div>
+<p style="color: White">
+We offer four different types of positions. Applicants can choose to focus on one or more of them:<br /><br />
+   <span style="color: Yellow "> 1. Development Intern</span> <br />
+The Intern will assist with the grant and proposal process, contribute to grant maintenance and compliance, and help with various aspects of fundraising events.
+</p>
+<p style="color: White"><span style="color: Yellow ">2. Media/Communication Intern</span> <br />
+The Intern will design, update and maintain the website, promote upcoming events, manage and upload photos, communicate with members, explore additional technology avenues for the organization.
+</p>
+<p style="color: White"><span style="color: Yellow ">3. Financial Intern</span> <br />
+The Intern will prepare a variety of financial statements based on the needs of specific projects, maintain accounting records, and create reports and budgets.</p>
+<p style="color: White"><span style="color: Yellow ">4. Marketing Intern</span> <br />
+The Intern will do research on a target market, participate in the creation and design of various marketing tools, and communicate with potential participants. The application form can be downloaded at http://www.dfwdragonboatfestival.com </p>
+
+<br />
+
+<div class="subtitle">We Invite YOU to apply for an Internship today! </div>
+
+<span style="color: Yellow ">Spring Internship</span>
+<p style="color: White">
+Start Date: Jan 15th<br />
+End Date: May 15th</p>
+<br />
+Summer Internship
+<p style="color: White">
+Start Date: May 15th<br />
+End Date: August 25th</p>
+<br />
+Fall Internship
+<p style="color: White">
+Start Date: August 26th<br />
+End Date: December 15th</p>
+
+<p style="color: White; font-style:italic">Note: You are required to work at least 20 hours per week during spring and fall, 40 hours per week during summer.</p>
+
+Click <a href="/forms/internship-application-form.pdf"> <span style="font-size: medium">Internship Application Form</span></a> to download the application form.
+<p style="color: White">
+If you are interested and older than the age of 18, please e-mail your completed application form, resume and cover letter to <a href="mailto:internship@marcopoloworldfoundation.org">internship@marcopoloworldfoundation.org</a>, We look forward to hear from you. </p>
+
+
+<BR>
+</TD>
+		<TD class="colright para1" valign=top>
+<!--
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+
+<IMG src="/images/program_5.gif"><BR>
+-->
+<IMG src="/images/committee2013.jpg" style="width:200; height:140">
+</TD>
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,9 @@
+Update file
+
+6/14/2013
+	removed 2013 sponsor letter from sponsor.shtml
+	added Adobe Reader link to index.shtml and removed it from sponsors.shtml
+	
+6/13/2013
+	added Irving-TV link
+	added 2014 Sponsorletter link to index.shtml + pdf to /forms

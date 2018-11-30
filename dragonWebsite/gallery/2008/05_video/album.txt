@@ -1,0 +1,4 @@
+[titlebar]Manatees, Part 1[/titlebar]
+[title]Snorkeling with Manatees<BR>20 Feb 2008[/title]
+[caption]Manatees and Caverns<BR>Day 1 (video)[/caption]
+[embed]<embed src="http://www.scubavidz.com/vidiac.swf" FlashVars="video=f8b0e836-a9f3-41df-b21d-9a3d0180ac55" quality="high" bgcolor="#ffffff" width="428" height="352" name="ePlayer" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>[/embed]

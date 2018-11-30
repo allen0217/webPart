@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "parivate access"
+AuthUserFile "/home2/marcopo2/.htpasswds/public_html/dfwdragonboat/docs/passwd"
+require valid-user

@@ -1,0 +1,536 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript">
+	<!--        script-->
+	</script>
+    <link rel="stylesheet" type="text/css" href="/dragon.css" />
+    <style type="text/css">
+        .schedule
+        {
+            text-align: left;
+            padding-left: 10px;
+            padding-bottom: 8px;
+            color: white;
+        }
+        TABLE TD
+        {
+            color: gold;
+        }
+    </style>
+</head>
+
+<body>
+	<center>
+		<TABLE id=maintbl border=0>
+		<!--#include virtual="/db_header.html"-->
+			<TR id=menubar>
+			<!--#include virtual="/db_menu.html"-->
+			</TR>
+
+			<TR>
+				<TD align=left valign=top style="padding-left: 15px;">
+					<TABLE style="border-collapse: collapse;" border=0 width=100%>
+						<TR>
+<!--left content-->
+							<TD class="colleft para1">
+								<H2>2014 Festival Schedule</H2><BR />
+
+<!-- 
+
+
+								<TABLE id=proglayout class=para1 style="margin-left: 10px; border-collapse: collapse;">
+									<p style="border: 1px solid black;">Come and enjoy the free concert from 6:00pm to 8:00 pm</p>	
+		<!~~ main stage ~~>
+									<TR>
+										<TD valign=top colspan=2>Main Stage </TD>
+									</TR>
+							
+									<TR>
+										<TD valign=top colspan=2"><HR></TD>
+									</TR>
+							
+									<TR>
+										<TD valign=top style="text-align: right;">08:30</TD>
+										<TD class=schedule>Kite and Lantern Festival Begins</TD><br />
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>10:00</TD>
+										<TD class=schedule>Elite International Youth Orchestra ~~ TCPAA</TD><BR>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>10:15</TD>
+										<TD class=schedule>
+											Jasmine Flower-Singing by Children from Park Cities Chinese Class-China<BR>
+											You and Me- Singing by Children from Park Cities Chinese Class-China<BR>
+										</TD>
+									</TR>
+							
+									<TR>
+										<TD align=right valign=top>10:20</TD>
+										<TD class=schedule>Thankful Heart by Rainbow Dance Group</TD><br />
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>10:25</TD>
+										<TD class=schedule>Tibetan Dance~~Golden Autumn Dance Group~~China</TD><BR>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>10:30</TD>
+										<TD class=schedule>Open Ceremonies with MC Sam Liu </TD><BR>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>10:30</TD>
+										<TD class=schedule>
+											Lion Dance-Lee White Leopard Kung Fu School<BR />
+											Welcome Message ~~ Diana MeiLan Wang, Co-founder & President of MPWF<BR />
+											Host City Remarks ~~ Mayor Beth Van Duyne, City of Irving<BR />
+											Greetings from Consulate General of the People’s Republic of China in Houston  Presented by Erwen Xu, Consul General<BR />
+											<BR />
+											<p><span>City Proclamations:</span></p>
+											Richardson Mayor - Laura Maczka  <br />
+											Farmers Branch Mayor - Bill Glancy<br />
+											Addison Mayor Pro Tem - Blake Clemens<br />
+											Festival Chair Remarks - Chairman, Daryl Walker, Greater Irving - Las Colinas Chamber of  Commerce<br />
+											Festival Co-Chair Remarks ~~ Co-chairs Merna Parcon<br />
+											Scholarship award ceremony~~introduced by MPWF Scholarship oordinator, David Hanley, presented by Co-founder & President of MPWF, Diana Meilan Wang & Board directors, Owen Stewart, Larry Jeffus and Jim Minoru Makita <br />
+										</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:00</TD>
+										<TD class=schedule>Dragon Boat Race Begin(Lake Activity)</TD><BR>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:00</TD>
+										<TD class=schedule>Dragon Dance - Lee's White Leopard Kung Fu School</TD><BR>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:05</TD>
+										<TD class=schedule>
+											Introduce 2013 Annual DFW Dragon Boat, Kite and Lantern Festival planning committees members<BR />
+											Marco Polo World Foundation Appreciation Awards Ceremonies<br />
+											Award Recipient (Supporting the MPW Foundation for 7 Years)<br />
+											~~Introduced by MPWF Award Coordinator, Mel Krater<br />
+											~~Presented Award by Co-founder & President of MPWF, Diana Meilan Wang & MPWF Board directors, Owen Stewart, Larry Jeffus and Jim Minoru Makita.<br />
+										</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:12 </TD>
+										<TD class=schedule> Dance by Happy Feet Dance school - Chinese Minority</TD><BR />
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:17 </TD>
+										<TD class=schedule>Indian Dance by Grace and Grooves<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:22 </TD> 
+										<TD class=schedule>Fred Morgia-Songs   <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:27  </TD>
+										<TD class=schedule>Kang Ding Love Song by Rainbow Dance Group<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:32 </TD>
+										<TD class=schedule>Gangnam Style Dance ~~by YuKun Liu group <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:37  </TD>
+										<TD class=schedule>Le Creme Ensemble-Edgar Battad, Joe Espiritu,  Edwin & Lennie Jabillo, Pabs<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:47  </TD>
+										<TD class=schedule>DFW Chanpuru Performing Group-Kathy ChapoyOkinawa<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:52 </TD>
+										<TD class=schedule>Dance by Happy Feet Dance school - Chinese Minority<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:52  </TD>
+										<TD class=schedule>Song solo by Michelle MiMi Sanchez  <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:00</TD> 
+										<TD class=schedule>Raffle Drawing - MC Sam Liu with Miss Asian American Texas Winners<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:05 </TD>
+										<TD class=schedule>Introduce MPWF Membership & Internship <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:10 </TD>
+										<TD class=schedule>Dance by Happy Feet Dance school—Chinese Minority<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:15 </TD>
+										<TD class=schedule>Song solo by Michelle MiMi Sanchez  <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:18</TD>
+										<TD class=schedule>Cambodian American Association of Dallas-Cambodia<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:28  </TD>
+										<TD class=schedule>Footsteps by Rainbow Dance Group<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:40  </TD>
+										<TD class=schedule>DFW Hindu Temple by Varsha Nagrecha-India<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:50  </TD>
+										<TD class=schedule>Tari Payung by DFW Indonesian Community-Indonesia<BR /></TD>
+
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:55   </TD>
+										<TD class=schedule>Jasmine flowers by Rainbow Dance Group <BR /></TD>
+
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>1:00 </TD>
+										<TD class=schedule>Raffle Drawing - MC with Miss Asian American Texas Winners<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>1:15  </TD>
+										<TD class=schedule>Maharlika Dancers –Filipino Traditional  <BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>1:30  </TD>
+										<TD class=schedule>Forcer Dance Center and Momentum Dance Company-Fusion<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>1:30 </TD>
+										<TD class=schedule>Dance by Happy Feet Dance school—Chinese Minority<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>2:00 </TD>
+										<TD class=schedule>Raffle Drawing - MC with Miss Asian American Texas Winners<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>2:05 </TD>
+										<TD class=schedule>Chao-PHRA-YA Thai Musical Instrument (Sax Kalayaboon) - Thailand<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>2:35 </TD>
+										<TD class=schedule>Keolas Hula Halao -Polynesian<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>3:00 </TD>
+										<TD class=schedule>Raffle Drawing - MC with Edgar Santiago with Michelle MiMi Sanchez </TD>
+									<BR />
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>3:05 </TD>
+										<TD class=schedule>Grace and Grooves-Nepal</TD>
+									<BR />
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>3:20</TD>
+										<TD class=schedule>Maharlika Dancers-Averi Bishop/Bamboo Dancing- Modern<BR /></TD>								
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>3:30</TD>
+										<TD class=schedule>Grace Hula - Hawaiian<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>4:00</TD>
+										<TD class=schedule>
+											Raffle Drawing - MC Edgar Santiago with Crystal Cameron<br />
+											Diamond Prize: One Round Trip Ticket from Los Angeles or San Francisco to Hong Kong on EVA Air Value: $1,450<BR />
+										</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>4:15 </TD>
+										<TD class=schedule>Friends and Music Melancholic Songs<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>4:25</TD>
+										<TD class=schedule>EM Performing Group-Philippines<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>4:30</TD>
+										<TD class=schedule>Announcement of Grand Champion Race (-Lake Activity)<BR /></TD>
+									</TR>
+							
+									<TR>
+										<TD align=right valign=top>4:30</TD>
+										<TD class=schedule>Chinese Gong Fu Show by Lee's White Leopard Kung Fu School - China<BR /></TD>
+									</TR>
+							
+									<TR>
+										<TD align=right valign=top>5:00 </TD>
+										<TD class=schedule>Dragon Boat Race Awards Ceremony ~~-Announcement of Winners on Stage<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>5:00 </TD>
+										<TD class=schedule>Raffle Drawing - MC -Grand Prize:  one roundtrip coach class tickets from North America to Seoul, Korea. Value:$5,100.<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>5:15 </TD>
+										<TD class=schedule>Halau Hula Ka mana o Hawaii<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>5:30 </TD>
+										<TD class=schedule>Fred Morgia in Concert<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>6:00  </TD>
+										<TD class=schedule>Lone Star Attitude in Concert<BR /></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>8:00  </TD>
+										<TD class=schedule>Closing Remarks - Diana Meilan Wang Co-founder & President of MPWF<BR /></TD>
+									</TR>
+
+		<!~~second section of table ~~>
+									<TR>
+										<TD valign=top colspan=2><HR></TD>
+									</TR>
+
+									<TR>
+										<TD valign=top>
+											Asian Culture ~~<BR />
+											Demonstrations<BR />
+											and Classes
+										</TD>
+										<TD class=schedule>
+											Booth A<BR />
+											08:30am ~~ 02:00pm Dumpling and Zong zi (Rice Wrapped in Bamboo Leaves) Making <BR />
+											02:00pm ~~ 08:00pm Dumpling and Zong zi (Rice Wrapped in Bamboo Leaves) Making <BR />
+											<BR />
+									
+											Booth B<BR />
+											08:30am ~~ 12:00pm Chinese Embroidering<BR />
+											12:00pm ~~ 04:00pm Chinese Art of Paper Cutting<BR />
+											04:00pm ~~ 08:00pm Origami<BR />
+											<BR />
+
+											Booth C<BR />
+											08:30am ~~ 08:00pm Abacus, Chopsticks and Chinese Calligraphy<BR />
+											<BR />
+
+											Booth D<BR />
+											10:30am Lantern Riddles<BR /> 
+											03:30pm Lantern Riddles<BR /> 
+											06:30pm Lantern Riddles<BR />
+											<BR />
+
+											Booth E<BR />
+											10:30am Kong Fu Class<BR /> 
+											12:00pm Chinese Harp Class<BR /> 
+											12:30pm Hawaii dance Class<BR /> 
+											01:30pm Bamboo Dance Class<BR /> 
+											02:30pm Chinese Harp Class<BR /> 
+											03:30pm Kung Fu Class <BR />
+											04:30pm Hawaii dance Class <BR />
+											05:30pm Line Dancing<BR />										
+											<BR />
+
+											Booth F(Located at Professional Kite Flying Field))<BR />
+											09:30am Kite Making & Kiting Class<BR /> 
+											12:00pm Kite Making & Kiting Class<BR /> 
+											02:00pm ~~ 02:15pm Kite Competition <BR />
+											04:00pm Kite Making & Kiting Class <BR />
+											06:00pm Kite Making & Kiting Class <BR />
+											<BR />
+
+											Booth G<BR />
+											10:00am ~~ 14:00pm Hacky Sack Class<BR /> 
+											11:00am Individual Competition <BR />
+											03:00pm Team Competition <BR />
+											06:00pm ~~ 08:00pm Hacky Sack Class<BR />
+											<BR />
+
+											Booth H<BR />
+											09:00am ~~ 08:00pm Panda Costume
+											<BR />
+										</TD>
+									</TR>
+
+		<!~~ Dragon Boat Racing ~~>
+									<TR>
+										<TD valign=top colspan=2><HR></TD>
+									</TR>
+
+									<TR>
+										<TD valign=top colspan=2>Dragon Boat Racing</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>9:00 am</TD>
+										<TD class=schedule>Dragon Boat Race Team Check In</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>9:30 am</TD>
+										<TD class=schedule>Dragon Boat Race Team Captains meeting</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>11:00 am</TD>
+										<TD class=schedule> First Round Dragon Boat Race Begins</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>12:30 pm</TD>
+										<TD class=schedule>2nd Round Dragon Boat Race Begins</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>4:30 pm</TD>
+										<TD class=schedule>Dragon Boat Race Grand Champion Race</TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>5:00 pm</TD>
+										<TD class=schedule>Awards Ceremony</TD>
+									</TR>
+
+									<TR>
+										<TD valign=top colspan=2><HR>
+									</TR>
+
+									<TR>
+										<TD valign=top colspan=2>Raffle Prizes</TD>
+									</TR>
+							
+									<TR>
+										<TD></TD>
+										<TD class=schedule></TD>
+									</TR>
+
+									<TR>
+										<TD align=right valign=top>Grand Prize:
+										<TD class=schedule>One roundtrip coach class tickets (valued at $5,100)  from any American Airlines and/or American Eagle destination within the contiguous 48 United States (excludes Alaska and Hawaii), Canada, Mexico or the Caribbean (excluding any codeshare services not operated by American Airlines or American Eagle) to Seoul, Korea.
+									</TR>
+							
+									<TR>
+										<TD align=right valign=top>Diamond Prize:</TD>
+										<TD class=schedule>
+											EVA AIR one round trip Economy class ticket LAX-HKG-LAX ($1450.00 value)
+											<p style="color: yellow">More raffle prizes for hourly raffle drawings. Please visit the festival to participate</p>
+										</TD>	
+									</TR>
+								</TABLE>
+ -->
+ 								<p>The schedule for the 2014 festival is still to come</p>
+ 								
+							</TD>
+														
+<!--right content-->
+							<TD class="colright para1" valign=top>
+								<IMG src="/images/program_1.gif"><BR />
+								<IMG src="/images/program_2.gif"><BR />
+								<IMG src="/images/program_3.gif"><BR />
+								<IMG src="/images/program_4.gif"><BR />
+								<IMG src="/images/program_5.gif"><BR />
+								<IMG src="/images/program_7.gif">
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>	
+			</TR>
+
+		<!--#include virtual="/db_footer.html"-->
+		</TABLE>
+	</center>
+</body>
+</html>
+
+<!-- Comment
+								1) Grand Prize: EVA Air ---provide one economy class round trip ticket from LAX to HKG ($1,500)<BR>
+
+								2) Galaxy Tab 10.1 from Samsung ($529)<BR>
+
+								3) Stay & Play Package ($260) from the Choctaw Casino Resort Hotel<BR>
+
+								4) 3 Gift Certificates from Jon David Salon<BR>
+
+								5) Gift Certificate from Homewood Suites By Hilton<BR>
+
+								6) 5 Raffle bags (facial tissue, paper towels, diapers, etc.) from Kimberly- Clark <BR>
+
+								7) 5 Facial Gift Certificates from Unique Skin Care<BR>
+
+								8) 2 Gift Certificates from Jcpenney<BR>
+
+								9) 1 Sandal from Diana's friend<BR>
+
+								10) Glass Drink Dispenser with Stand from Sam's Club<BR>
+
+								11) 4 Books from Debbie<BR>
+
+								12) A bottle of perfume from Perfume Center (100ml) <BR>
+
+								13) 2 Gift Certificates from Red Hot & Blue <BR>
+
+								14) 2 Handbags from Diana's friend<BR>
+
+								15) Gift Certificate from Romano's Macaroni Grill<BR>
+
+								16) Gift Certificate from Panera<BR>
+
+								17) 3 Restaurant Coupons from Jason Liu<BR>
+
+								18) Coupon Sets  from  On the Border Mexican Grill<BR>
+
+								19) 2 Ipad Cases from Diana's friend<BR>
+
+								20) 3 Sample Sets from The Vitamin Shoppe<BR>
+
+								21) 10 umbrellas from China Books and Arts<BR>
+
+								22) 6X iPhone 4G cases with bottle openers from Softlayer Technologies, Inc<BR>
+
+								23) Golf Coupon from Jason Liu<BR>
+-->
+                                                                                                                                                                                                                                      

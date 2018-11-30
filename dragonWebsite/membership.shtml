@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+.paypal-container 
+{
+    margin-bottom:8px;            
+}
+.paypal-container .divider 
+{
+   width: 100%;
+   line-height:30px;
+   border-top:1px solid #efefef;   
+   
+   font-size:1em;      
+}
+.paypal-container .instruction 
+{
+    font-size: 0.9em;
+    padding: 8px;
+    color : White;
+}
+
+.paypal-container .paypal-form
+{
+    padding-left:8px;
+}
+.paypal-container .paypal-form table tr td
+{
+    font-size: 0.8em !important;    
+    font-weight:bold;
+}
+
+.paypal-container .paypal-form table tr td select > option
+{
+    font-size: 0.8em !important;    
+    padding:4px !important;
+}
+
+.container
+{
+    margin-bottom:8px;
+}
+#paypal-table tr td { vertical-align:top; padding-top:16px; padding-right:16px;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+
+<TD align=left valign=top style="padding-left: 15px;">
+<H2>The Marco Polo World Foundation Membership Program
+</H2>	
+
+<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		
+<td colspan="3" class="para1" >
+<div class="subtitle">Membership </div>
+<p style="color: White">Membership in the Marco Polo World Foundation benefits individuals and the community through a variety of programs and events.</p>
+
+<p style="color: White"> Marco Polo World Foundation is a Public charity non-profit 501 (c) (3) organization founded in 2007. We are a non-religious and non-partisan organization. Our mission is to promote intercultural understanding by sharing and celebrating International Culture with all people of the region and across America. MPWF provides four programs:
+<p style="color: White">Marco Polo World Foundation provides four programs: </p>
+<p style="color: White">(1) Annual DFW Dragon Boat, Kite and Lantern Festival</p>
+<p style="color: White">(2) Scholarships</p>
+<p style="color: White">(3) Internships</p>
+<p style="color: White">(4) Asian Culture Seminar</p> 
+<p style="color: White">Through these programs, we bring together individuals and organizations from different sectors of the community by encouraging local, regional and international groups to engage with a variety of social and civic betterment efforts.</p>
+
+<p style="color: White">We provide opportunities for our members to network with professionals, businesses, communities, and others. Involvement in the Marco Polo World Foundation will help you strengthen your business and cultural relationships within the community. 
+</p>
+<br />
+	
+
+<div class="subtitle">A list of benefits of our membership:</div>
+
+<ul style="color:White;">
+<li>Various business network opportunities for our members in different areas.</li>
+<li>Internship opportunities open to our members.</li>
+<li>Free admission to our fall Picnic.</li>
+<li>Free parking in Annual DFW Dragon Boat, Lite and Lantern Festival.</li>
+<li>Discount registration fees for boat racing in Annual DFW Dragon Boat, Lite and Lantern Festival.</li>
+<!--
+<li>Discount tickets for 2013 Lantern Festival in Dallas.</li>
+<li>Discount tickets to women’s association events.</li>
+-->
+<li>Volunteer and other opportunities.</li>
+</ul>
+
+<div class="subtitle">Membership Register</div>
+<!--
+<iframe src="https://docs.google.com/forms/d/1ZsFbl12h4ztxWIRip15kbviab6DPQS-zisVPz--Tp_g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+-->
+<div>
+<iframe src="https://docs.google.com/forms/d/1ZsFbl12h4ztxWIRip15kbviab6DPQS-zisVPz--Tp_g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
+
+<!--paypal group -->
+<div class="subtitle">Marco Polo World Foundation Membership Dues Categories </div>
+<div style ="color: white;">Please choose one category and select one of the options from the dropdown box, then click the "Pay Now" button:</div>
+<table id="paypal-table">
+				            <colgroup>
+				            <col style="width:30%;" />
+				            <col style="width:30%;" />
+							<col style="width:40%;" />
+				            </colgroup>
+<tr>
+<td>							
+<div class="paypal-container">
+<div class="divider">Student Membership</div>
+<div class="paypal-form">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L7R3XHLL5JM6J">
+<table>
+<tr><td><input type="hidden" name="on0" value="Student Membership"></td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $20.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $30.00 USD</option>    
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<div class="instruction">$20 per year, $30 for 2 years</div>
+</div>
+</td>
+<td>
+<div class="paypal-container">
+<div class="divider">Individual Membership</div>
+<div class="paypal-form">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SQYJGJ6XFQTF6">
+<table>
+<tr><td><input type="hidden" name="on0" value="Individual Membership"></td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $40.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $70.00 USD</option>
+	<option value="Lifetime Membership">Lifetime Membership $300.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<div class="instruction">$40 per year, $70 for 2 years, $300 for lifetime</div>
+</div>
+</td>
+<td>
+<div class="paypal-container">
+<div class="divider">Family Membership</div>
+<div class="paypal-form">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="T444CY2GLLDLN">
+<table>
+<tr><td><input type="hidden" name="on0" value="Family Membership"></td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $70.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $120.00 USD</option>
+	<option value="Lifetime Membership">Lifetime Membership $500.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<div class="instruction">The membership covers the family with two adults and children under 18. It's $70/year or $120 for 2 years or $500 for lifetime</div>
+</div>
+</td>
+</tr>
+</table><!--end of paypal group -->
+
+<div class="container">
+Click <a href="/forms/membership-application-form.pdf"> <span style="font-size: medium">Membership Application Form</span></a> to download the application form.
+</div>
+<p style="color: White">Please send completed form and check (made payable to “Marco Polo World Foundation”) to:
+<br /><br />
+Marco Polo World Foundation <br />
+400 E. Royal Lane, Building Three, Suite 290<br />
+Irving, TX 75039<br />
+</p>
+
+<p style="color: White">
+Or Email to:  <a href="mailto:internship@marcopoloworldfoundation.org">membership@marcopoloworldfoundation.org</a>
+<br /><br />
+Or visit our website at: <a href="http://marcopoloworldfoundation.org/membership.shtml">http://marcopoloworldfoundation.org/membership.shtml </a>.
+
+</p>
+<br />
+</TD>
+<!--
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+
+<IMG src="/images/program_5.gif"><BR>
+-->
+		<TD class="colright para1" valign=top>
+<IMG src="/images/VIP+Board Members.jpg" style="width:200; height:140">
+<IMG src="/images/committee2013.jpg" style="width:200; height:140">
+
+
+<!-- student membership-->
+<!--
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L7R3XHLL5JM6J">
+<table>
+<tr><td><input type="hidden" name="on0" value="Student Membership">Student Membership</td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $20.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $30.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+-->
+<!-- individual membership-->
+<!--
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SQYJGJ6XFQTF6">
+<table>
+<tr><td><input type="hidden" name="on0" value="Individual Membership">Individual Membership</td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $40.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $70.00 USD</option>
+	<option value="Lifetime Membership">Lifetime Membership $300.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+-->
+<!--family membership--> 
+<!--
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="T444CY2GLLDLN">
+<table>
+<tr><td><input type="hidden" name="on0" value="Family Membership">Family Membership</td></tr><tr><td><select name="os0">
+	<option value="1 Year Membership">1 Year Membership $70.00 USD</option>
+	<option value="2 Year Membership">2 Year Membership $120.00 USD</option>
+	<option value="Lifetime Membership">Lifetime Membership $500.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+-->
+</TD>
+
+
+<!--right content-->
+	</TR>
+	</TABLE>
+
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

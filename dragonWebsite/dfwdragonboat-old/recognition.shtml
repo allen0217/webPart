@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+#recoglist P{margin-top: 0pt;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD class="colleft para1" style="vertical-align: top;">
+<!--left content-->
+<p style="font-size: 16pt; color: gold;">Recognition</P>
+The DFW Dragon Boat, Kite, and Lantern Festival has been recognized for its contribution to increasing understanding of the Asian community within the DFW Metroplex and beyond.
+<BR><BR>
+<BR><BR>
+<IMG alt="" src="/images/DallasMayor2012.jpg">
+<p>Left: Diana Meilan Wang, Founder and President of Marco Polo World Foundation</P>
+<p>Middle: Mike Rawlings,  City of Dallas Mayor</p>
+<p>Right: Owen E. Stewart, Treasurer, board member of Marco Polo World Foundation</p>
+<BR><BR>
+<DIV id=recoglist>
+2011
+<P>
+<A href="/recognition/2011_state_proc.pdf">State of Texas</A><BR>
+<A href="/recognition/2011_city_proc.pdf">City of Irving</A><BR>
+</P>
+<BR>
+2010
+<P>
+<A href="/recognition/2010_texas_resolution.pdf">State of Texas</A><BR>
+<A href="/recognition/2010_irving_mayor.pdf">City of Irving</A><BR>
+<A href="/recognition/2010_addison_mayor.pdf">City of Addison</A><BR>
+<A href="/recognition/2010_plano_mayor.pdf">City of Plano</A><BR>
+<A href="/recognition/2010_GarlandMayor.PDF">City of Garland</A><BR>
+<A href="/recognition/2010_sessions.pdf">Congressman Pete Sessions</A><BR>
+<A href="/recognition/2010_button.pdf">Representative Angie Chen Button</A><BR>
+<A href="/recognition/2010_lhbrown.pdf">Representative Linda Harper Brown</A><BR>
+<A href="/recognition/2010_census_1.jpg">2010 Census Participation</A><BR>
+<A href="/recognition/2010_census_2.jpg">2010 Census Participation</A>
+</P>
+<BR>
+2009
+<P>
+<A href="/recognition/2009_irving_mayor.jpg">City of Irving</A><BR>
+<A href="/recognition/2009_coryn.jpg">Senator John Coryn</A><BR>
+<A href="/recognition/2009_button.pdf">Representative Angie Chen Button</A><BR>
+<A href="/recognition/2009_consulate.jpg">People's Republic of China</A><BR>
+</P>
+</DIV>
+<BR>
+		<TD class="colright para1" valign=top>
+<!--right content-->
+<IMG src="/images/recognition_1.gif">
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

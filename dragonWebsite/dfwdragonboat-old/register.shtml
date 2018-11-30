@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>2011 DFW Dragon Boat Festival</title>
+<script type="text/javascript">
+var teamflag = -1;
+function ShowTeams()
+{
+	if(teamflag == 1)
+		document.getElementById('teamlist').style.display = "none";
+	else
+		document.getElementById('teamlist').style.display = "block";
+	teamflag = -teamflag;
+}
+</script>
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<style type="text/css"></style>
+</head>
+<body>
+<center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0" width="100%">
+<tbody>
+<tr>
+<td class="colleft para1">
+<p><!--left content-->
+<h2 style="color: gold">Team Registration</h2><span style="color: gold; font-size: 14pt">Registered Teams</span><br />
+<!--#include file="team/team_list.html" --><br />
+To register your team for the Dragon Boat Race, the team captain must complete the registration form, ensure all team members have signed a Waiver Form, and submit the registration fee, list of team members and waivers before the team registration deadline date. All signed Waiver forms must be submitted by 1 May. <br />
+<br />
+NOTE: Corporate/business teams cannot register at the Community Team rates.  Community Teams division is intended for boy scouts, schools, and community service non-profit organizations.  Organizations that operate for profit, including corporations, sole proprietorships, partnerships, etc. DO NOT qualify for the Community Team Division.<br />
+<br />For Fairness at the race following rules applies to the division or categories:</p>
+<p><!--[if gte mso 9]>
+<xml>
+<o:documentproperties>
+<o:author>lmak</o:author>
+<o:version>12.00</o:version></o:documentproperties></xml><![endif]--><!--[if gte mso 9]>
+<xml>
+<w:worddocument>
+<w:view>Normal</w:view>
+<w:zoom>0</w:zoom>
+<w:trackmoves/>
+<w:trackformatting/>
+<w:punctuationkerning/>
+<w:validateagainstschemas/>
+<w:saveifxmlinvalid>false</w:saveifxmlinvalid>
+<w:ignoremixedcontent>false</w:ignoremixedcontent>
+<w:alwaysshowplaceholdertext>false</w:alwaysshowplaceholdertext>
+<w:donotpromoteqf/>
+<w:lidthemeother>EN-US</w:lidthemeother>
+<w:lidthemeasian>X-NONE</w:lidthemeasian>
+<w:lidthemecomplexscript>X-NONE</w:lidthemecomplexscript>
+<w:compatibility>
+<w:breakwrappedtables/>
+<w:snaptogridincell/>
+<w:wraptextwithpunct/>
+<w:useasianbreakrules/>
+<w:dontgrowautofit/>
+<w:splitpgbreakandparamark/>
+<w:dontvertaligncellwithsp/>
+<w:dontbreakconstrainedforcedtables/>
+<w:dontvertalignintxbx/>
+<w:word11kerningpairs/>
+<w:cachedcolbalance/></w:compatibility>
+<w:browserlevel>MicrosoftInternetExplorer4</w:browserlevel>
+<m:mathpr>
+<m:mathfont m:val="Cambria Math"/>
+<m:brkbin m:val="before"/>
+<m:brkbinsub m:val="&#45;-"/>
+<m:smallfrac m:val="off"/>
+<m:dispdef/>
+<m:lmargin m:val="0"/>
+<m:rmargin m:val="0"/>
+<m:defjc m:val="centerGroup"/>
+<m:wrapindent m:val="1440"/>
+<m:intlim m:val="subSup"/>
+<m:narylim m:val="undOvr"/></m:mathpr></w:worddocument></xml><![endif]--><!--[if gte mso 9]>
+<xml>
+<w:latentstyles deflockedstate="false" defunhidewhenused="true"
+  defsemihidden="true" defqformat="false" defpriority="99"
+  latentstylecount="267">
+<w:lsdexception locked="false" priority="0" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Normal"/>
+<w:lsdexception locked="false" priority="9" semihidden="false"
+   unhidewhenused="false" qformat="true" name="heading 1"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 2"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 3"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 4"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 5"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 6"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 7"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 8"/>
+<w:lsdexception locked="false" priority="9" qformat="true" name="heading 9"/>
+<w:lsdexception locked="false" priority="39" name="toc 1"/>
+<w:lsdexception locked="false" priority="39" name="toc 2"/>
+<w:lsdexception locked="false" priority="39" name="toc 3"/>
+<w:lsdexception locked="false" priority="39" name="toc 4"/>
+<w:lsdexception locked="false" priority="39" name="toc 5"/>
+<w:lsdexception locked="false" priority="39" name="toc 6"/>
+<w:lsdexception locked="false" priority="39" name="toc 7"/>
+<w:lsdexception locked="false" priority="39" name="toc 8"/>
+<w:lsdexception locked="false" priority="39" name="toc 9"/>
+<w:lsdexception locked="false" priority="35" qformat="true" name="caption"/>
+<w:lsdexception locked="false" priority="10" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Title"/>
+<w:lsdexception locked="false" priority="1" name="Default Paragraph Font"/>
+<w:lsdexception locked="false" priority="11" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Subtitle"/>
+<w:lsdexception locked="false" priority="22" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Strong"/>
+<w:lsdexception locked="false" priority="20" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Emphasis"/>
+<w:lsdexception locked="false" priority="59" semihidden="false"
+   unhidewhenused="false" name="Table Grid"/>
+<w:lsdexception locked="false" unhidewhenused="false" name="Placeholder Text"/>
+<w:lsdexception locked="false" priority="1" semihidden="false"
+   unhidewhenused="false" qformat="true" name="No Spacing"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 1"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 1"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 1"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 1"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 1"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 1"/>
+<w:lsdexception locked="false" unhidewhenused="false" name="Revision"/>
+<w:lsdexception locked="false" priority="34" semihidden="false"
+   unhidewhenused="false" qformat="true" name="List Paragraph"/>
+<w:lsdexception locked="false" priority="29" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Quote"/>
+<w:lsdexception locked="false" priority="30" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Intense Quote"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 1"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 1"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 1"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 1"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 1"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 1"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 1"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 1"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 2"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 2"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 2"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 2"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 2"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 2"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 2"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 2"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 2"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 2"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 2"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 2"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 2"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 2"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 3"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 3"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 3"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 3"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 3"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 3"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 3"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 3"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 3"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 3"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 3"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 3"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 3"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 3"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 4"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 4"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 4"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 4"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 4"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 4"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 4"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 4"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 4"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 4"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 4"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 4"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 4"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 4"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 5"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 5"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 5"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 5"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 5"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 5"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 5"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 5"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 5"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 5"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 5"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 5"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 5"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 5"/>
+<w:lsdexception locked="false" priority="60" semihidden="false"
+   unhidewhenused="false" name="Light Shading Accent 6"/>
+<w:lsdexception locked="false" priority="61" semihidden="false"
+   unhidewhenused="false" name="Light List Accent 6"/>
+<w:lsdexception locked="false" priority="62" semihidden="false"
+   unhidewhenused="false" name="Light Grid Accent 6"/>
+<w:lsdexception locked="false" priority="63" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 1 Accent 6"/>
+<w:lsdexception locked="false" priority="64" semihidden="false"
+   unhidewhenused="false" name="Medium Shading 2 Accent 6"/>
+<w:lsdexception locked="false" priority="65" semihidden="false"
+   unhidewhenused="false" name="Medium List 1 Accent 6"/>
+<w:lsdexception locked="false" priority="66" semihidden="false"
+   unhidewhenused="false" name="Medium List 2 Accent 6"/>
+<w:lsdexception locked="false" priority="67" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 1 Accent 6"/>
+<w:lsdexception locked="false" priority="68" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 2 Accent 6"/>
+<w:lsdexception locked="false" priority="69" semihidden="false"
+   unhidewhenused="false" name="Medium Grid 3 Accent 6"/>
+<w:lsdexception locked="false" priority="70" semihidden="false"
+   unhidewhenused="false" name="Dark List Accent 6"/>
+<w:lsdexception locked="false" priority="71" semihidden="false"
+   unhidewhenused="false" name="Colorful Shading Accent 6"/>
+<w:lsdexception locked="false" priority="72" semihidden="false"
+   unhidewhenused="false" name="Colorful List Accent 6"/>
+<w:lsdexception locked="false" priority="73" semihidden="false"
+   unhidewhenused="false" name="Colorful Grid Accent 6"/>
+<w:lsdexception locked="false" priority="19" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Subtle Emphasis"/>
+<w:lsdexception locked="false" priority="21" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Intense Emphasis"/>
+<w:lsdexception locked="false" priority="31" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Subtle Reference"/>
+<w:lsdexception locked="false" priority="32" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Intense Reference"/>
+<w:lsdexception locked="false" priority="33" semihidden="false"
+   unhidewhenused="false" qformat="true" name="Book Title"/>
+<w:lsdexception locked="false" priority="37" name="Bibliography"/>
+<w:lsdexception locked="false" priority="39" qformat="true" name="TOC Heading"/></w:latentstyles></xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:&quot;Table Normal&quot;;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:&quot;&quot;;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:&quot;Times New Roman&quot;;
+	mso-bidi-theme-font:minor-bidi;}</style><![endif]--></p>
+<p class="MsoNormal">Mixed
+Divisions -&nbsp; Minimum of EIGHT FEMALE PADDLERS in the boat.&nbsp; More
+females is OK.&nbsp; More than 12 men in the boat will result in a penalty<br />
+Women's Division - All paddlers must be women.&nbsp; Any male paddlers on the
+boat will result in a penalty<br />
+Open Division (Also called Men's Division) - No restrictions on the number of
+men in the boat.&nbsp; There can be women on the boat too.&nbsp; </p>
+<p><!--<SPAN class=subtitle2>Team Captains</span>:<br />
+<a href="/team/team.php">Register team on-line</a> or
+--><a href="/forms/register2012.pdf">Download the Dragon Boat Racing Registration Form</a><br />
+<br />
+EVERY participant (Paddler, Drummer, Alternate) MUST complete a Waiver<br />
+<a href="/forms/waiver2012.pdf">Click here for Waiver Form for Adults</a><br />
+<a href="/forms/waiver_under18.pdf">Click here for Waiver Form for under 18</a><br />
+<br />
+No previous experience is required.  Participants must be able to swim. Trainers will be available the day before the race to train your team.  Dragon boats, paddles, and PFDs (personal floatation devices) will be supplied by the Texas Dragon Boat Association.</p>
+<p class="MsoNormal"><font color="#ccff00"><span>In addition no outside food (including
+but not limited to BBQ, picnic, tailgate party, etc.) is allowed due to
+conflicting interest with event vendors and potential safety hazard.</span></font></p><br />
+<div class="subtitle2">Team Captains</div><span class="subtitle1">Training Day</span>, Friday (May 18th), Saturday (May 19th)<br />
+<br />
+Your one-hour training time will be assigned upon receipt of completed registration form and waivers. For best choice of available training times, turn in your registration forms early. <br />
+<br />
+Please assemble your team for hands-on practice at least half hour before your designated training time, on Lake Carolyn, Irving, Texas. The first 30 minutes will be spent on land working on warming up and getting a briefing on the sport and safety. This will be followed by about an hour of practice on the water. The last 30 minutes will be a cool down and stretching period. Note: all participants must have turned in a signed waiver to participate.<br />
+<br /><span class="subtitle1">Race Day</span>, Sunday, May 20th, 2012<br />
+<br />
+Team check-in for day of race begins at 9:00 a.m. on Sunday, May 20th, 2012 at the Festival grounds. All teams must be assembled by 9 a.m. on Sunday. The team captain meeting is at 9:15 a.m. where the race roster where be distributed. We will then begin loading the boats and positioning the boats at the start line. The opening ceremony is at 10 a.m., followed by the start of the dragon boat races. Teams will be paddling two heats, followed by finals. <br />
+<br />
+<div class="subtitle2">Hands On Practice</div><span class="subtitle1">Team Practice</span>	May 13th and 14th (practice times will be assigned)<br />
+			Marina docks at west side of Lake Carolyn, Irving, Texas<br />
+			Lake Carolyn is located across from mustangs at Las Colinas<br />
+<br /><span class="subtitle1">Festival Date</span>	May 20, 2012<br />
+<br /><span class="subtitle1">Team check-in</span>	8:00 AM<br />
+<br /><span class="subtitle1">Place</span> Lake Carolyn, Irving, Texas<br />
+<br /><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img alt="" src="/images/get_adobe_reader.gif" border="0" /></a><br />
+<br /></td>
+<td class="colright para1" style="padding-top: 25px" valign="top"><!--right content--><img alt="" src="/images/register_1.gif" /><br />
+
+<img alt="" src="/images/register_2.gif" /><br />
+</td></tr></tbody></table></td></tr><!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

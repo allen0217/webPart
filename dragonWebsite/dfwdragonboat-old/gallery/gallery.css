@@ -1,0 +1,16 @@
+#menubarx {position: relative; height: 35px; width: 752px; background-image: url(/images/tab_off.gif); background-repeat; repeat;}
+#menubarx A {position: absolute; width: 125px; height: 35px; text-decoration: none; color: red; text-align: center; top: 5px;  line-height: 20px;}
+#menubarx #tab1 A {left: 0px;}
+#menubarx #tab2 A {left: 125px;}
+#menubarx #tab3 A {left: 250px;}
+#menubarx #tab4 A {left: 375px;}
+#menubarx #tab5 A {left: 500px;}
+#menubarx #tab6 A {left: 625px;}
+#menubarx A:hover {background-image: url(/images/tab_on.gif); color: green; top: 0px; line-height: 30px; font-weight: bold;}
+
+#selc1 #tab1 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}
+#selc2 #tab2 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}
+#selc3 #tab3 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}
+#selc4 #tab4 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}
+#selc5 #tab5 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}
+#selc6 #tab6 A {background-image: url(/images/tab_on.gif); color: black; top: 0px; line-height: 30px; font-weight: bold;}

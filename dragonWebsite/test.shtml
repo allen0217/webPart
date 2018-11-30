@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<STYLE type="text/css">
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<P id="smart"></P>
+</CENTER>
+<script type="text/javascript" src="/js/2009sponsors.js"></script>
+<SCRIPT type="text/javascript">
+var xxx = "this is a test";
+alert(sponsors2009);
+document.getElementById("smart").innerHTML = sponsors2009;
+</SCRIPT>
+</BODY>
+</HTML>
+

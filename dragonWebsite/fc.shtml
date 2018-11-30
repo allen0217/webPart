@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+<SCRIPT type="text/javascript">
+<!--script-->
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+
+<TD align=left valign=top style="padding-left: 15px;">
+<H2>2017 Festival Planning Committee Department List
+</H2>		
+<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		
+<td colspan="3" class="para1" >
+<div class="subtitle">Committee Members</div>
+<p style="color: Yellow"> Name  &nbsp&nbsp  Department </p>
+
+<br />
+<p style="color: White"> Linda Harper Brown&nbsp&nbsp -Festival Chair </p>
+<br />
+<p style="color: White"> Merna Parcon &nbsp&nbsp  -  Festival Co-Chair</p>
+<br />
+<p style="color: White"> Sam Liu, Mark C. Cheng, Ashley Berges &nbsp&nbsp  -  MC</p>
+<br />
+<p style="color: White">  Chris Arnold, Lori Hoff &nbsp&nbsp -MC for Dragon Boating </p>
+<br />
+<p style="color: White"> Alejandra Reyes,Justin K. Muller, Jansen Givens &nbsp&nbsp - Public relations & media </p>
+<br />
+<p style="color: White"> Jan Xie  &nbsp&nbsp - Social Media</p>
+<br />
+<p style="color: White">Patrick Wang &nbsp&nbsp  -  VIP Coordinator </p>
+<br />
+<p style="color: White">Liyi Wu, Jinhong Liu, Merna  &nbsp&nbsp- Culture performance coordinator  </p>
+<br />
+<p style="color: White">Kenn Madsen, Feng Zhang, Mark Xiang &nbsp&nbsp -  Boat Racing  </p>
+<br />
+<p style="color: White"> Jessica Pao , Crystal Juiying Lin&nbsp&nbsp -  Vendor     </p>
+<br />
+<p style="color: White">Ruoyu Liu &nbsp&nbsp - Volunteer    </p>
+<br />
+<p style="color: White">  Chau Nguyen, Jan Xie, Shandi Zhang, Yun Li, Angela&nbsp&nbsp - Logistic  </p>
+<br />
+<p style="color: White"> Fasca Shu Lam, Jing Lu, Rusen Han, Yan Wen Zhu&nbsp&nbsp - Culture program and festival activities  </p>
+<br />
+<p style="color: White">   Joanna Tang&nbsp&nbsp- Internship Program   </p>
+<br />
+<p style="color: White">Lan Jia&nbsp&nbsp -  Appreciation awards coordinator     </p>
+<br />
+<p style="color: White">David Hanley &nbsp&nbsp- Scholarship Program</p>
+<br />
+<p style="color: White">Shandi Zhang &nbsp&nbsp -Membership  </p>
+<br />
+<p style="color: White">  Allen Tang&nbsp&nbsp - Webmaster  </p>
+<br />
+<p style="color: White">  Gang Hu, Samuel Burris &nbsp&nbsp - Program book art design   </p>
+<br />
+<p style="color: White">  Polsinelli Law Firm  &nbsp&nbsp -Legal Advisor   </p>
+<br />
+<p style="color: White"> Kris Ikejiri, Shirley Shen, Jarvis Jacobs, Robert Lin, Joe Zhou, Tony Hong, Lei Zhang, Willi Xiang&nbsp&nbsp-   Festival appointed photographer   </p>
+<br />
+<IMG src="/images/c11.jpg" style="width:600; height:340">
+<IMG src="/images/c22.jpg" style="width:600; height:340">
+<IMG src="/images/c33.jpg" style="width:600; height:340">
+</TD>
+		<!-- <TD class="colright para1" valign=top>
+<IMG src="/images/Committee Members.jpg" style="width:200; height:140">
+<IMG src="/images/Planning Committe Members.jpg" style="width:200; height:140">
+<IMG src="/images/fc2.jpg" style="width:200; height:140">
+<IMG src="/images/fc1.jpg" style="width:150; height:200">
+<IMG src="/images/fc3.jpg" style="width:150; height:200">
+<IMG src="/images/fc4.jpg" style="width:150; height:200">
+</TD> -->
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

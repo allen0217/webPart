@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DFW Dragon Boat Festival</title>
+<script type="text/javascript">
+</script>
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<style type="text/css"></style>
+</head>
+<body>
+<center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<table style="border-collapse: collapse" border="0" width="100%">
+<tbody>
+
+<tr>
+<td colspan="3" class="para1" style="padding: 10px 0px 10px 0px">
+</td></tr>
+<tr><!--left content-->
+<td class="colleft para1" valign="top">
+<p id="sponsor"></p>
+<br />
+<div class="subtitle">Kite Flying Contest Infomation</div>
+
+<p>Now is time to fly your own kite! Join the kiting activities and win a prize! We provide three sessions of kite-making and kiting classes. Come make your own kite in class or bring your own kites to participate in the kite competitions. 
+
+</p>
+<p>Classes are offered at 9:30am, 12:00pm, and 4:00pm
+</p>
+
+<div class="subtitle2">Contest Duration </div>
+    <p>Judging takes place between 2:00pm and 2:15pm. Make sure to get your kites up in the air at the Professional Kite Flying Area during this time. Winners are announced at the main stage at 2:30pm.</p>
+<br />
+<br />
+<div class="subtitle2">Titles to compete for</div>
+   <p>Four titles to compete for:</p>
+<p>•	Most Unusual Kite: Unique shape, design, etc. It could be the prettiest kite of all, or the ugliest!
+</p>
+<p>•	Longest Flying Kite Tail 
+</p>
+<p>•	Highest Flying Kite
+</p>
+<p>•	Largest Flying Kite
+</p>
+<br />
+
+
+<div class="subtitle2">Winners will be carefully selected by kiting professionals from TKO, TX, Kansas, Okla team.</div>
+    <p>All prizes are donated by Mrs Gloria Harmon ( Kite maker & owner of Wind Dancers Kites ), and Marco Polo World Foundation will also award each winner a
+commendation certificate.
+</p>
+<br />
+
+
+<div class="subtitle">The competition is open to ALL ages, no registration required. Just get your kites in the air!</div>
+
+   <p>Both hand-made or store-bought kites are eligible. </p> 
+<br />
+<p>For more information and any inquiries, feel free to email us at <A href="mailto:kite@dfwdragonboatfestival.com"> kite@dfwdragonboatfestival.com</A></p>
+
+<br />
+<br />
+<br />
+<div class="subtitle">History about Kites</div>
+ <p>Exactly when and how the first kite was invented remains a debatable topic. But thanks to well-preserved written and artistic records, it is widely accepted that the first kite was invented in China over 2000 years ago. Philosopher Mo Di (approx. 468-376 B.C.) made the first kite in the shape of an eagle in the Lo Mountain of Shandong province. According to historical records, early kites were made out of bamboo and silk.
+</p>
+<p>Right about 200 B.C., Chinese General Han Hsin of the Han Dynasty flew a kite over the walls of an enemy city to measure how far his army would have to tunnel to get passed the enemy defenses. Since then, kites were often applied to military uses, for signaling or spying or even sniping.
+</p>
+<p>At the turn of the 13th century, the great adventurer Marco Polo brought back to Europe stories about the building and flying of kites in China. But it did not stir much interest.
+</p>
+<p>Even though kite flying is generally regarded as a family activity, many kite festivals, kite craftsmanship and skill contests, and kite-fighting tournaments are being held all year round internationally. The city of Weifang, located in China’s Shandong province, is crowned the “World Kite Capital,” thanks to the exceptional craftsmanship and kite-flying skills of the residents. Every year in April, the World Kite Festival takes place in Weifang, drawing thousands of kite fans from all around the world.
+</p>
+
+<br />
+<br />
+<br />
+</td>
+		<TD class="colright para1" valign=top>
+<!--
+<IMG src="/images/program_1.gif"><BR>
+<IMG src="/images/program_2.gif"><BR>
+<IMG src="/images/program_3.gif"><BR>
+<IMG src="/images/program_4.gif"><BR>
+-->
+<IMG src="/images/kite1.jpg" style="width: 200px; height: 150px"><BR>
+<IMG src="/images/kite2.jpg" style="width: 200px; height: 150px">
+</TD>
+</tr>
+
+<tr>
+
+<td><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img alt="" src="/images/get_adobe_reader.gif" border="0" /></a></td>
+<td>&nbsp;</td></tr></tbody></table></td></tr><!--#include virtual="/db_footer.html"--></tbody></table></center>
+<script type="text/javascript">
+</script>
+</body>
+</html>

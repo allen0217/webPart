@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript">
+</script>
+    <link rel="stylesheet" type="text/css" href="/dragon.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        var MP = {
+            timerId: null,
+            cursor: 0,
+            select: function (id) {
+                //var offset = $(this).offset();
+
+                $(['div#', id].join('')).removeClass("slide-default").addClass('slide-show').offset({ top: 400, left: 400 }).show();
+            }
+        };
+
+        $(document).ready(function () {
+            //find div
+            var div = $('div.showcase');
+            //find ul width
+            var liNum = $(div).find('ul').children('li').length;
+            var speed = 300;
+            var containerWidth = 320;
+            var itemWidth = 320;
+            //Remove scrollbars
+            $(div).css({ overflow: 'hidden' });
+            $('div.right-arrow').click(function (e) {
+                //alert($(div).scrollLeft()+containerWidth);
+                //alert(liNum*itemWidth);
+                if (($(div).scrollLeft() + containerWidth) < (liNum * itemWidth)) {
+                    $(div).animate({
+                        scrollLeft: '+=' + containerWidth
+                    }, speed);
+                }
+            });
+            $('div.left-arrow').click(function (e) {
+                if (($(div).scrollLeft() + containerWidth) > containerWidth) {
+                    $(div).animate({
+                        scrollLeft: '-=' + containerWidth
+                    }, speed);
+                }
+            });
+            $('div.showcase ul li div.dragonboat').mouseover(function () {
+                $('div#slide_boat').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_kite').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_lantern').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_boat').removeClass("slide-default").addClass('slide-show').offset({ top: 500, left: 400 }).show();
+            });
+            $('div#slide_boat').mouseleave(function () {
+//                alert($('div#slide_boat').text)
+            $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+
+            $('div.showcase ul li div.kiteflying').mouseover(function () {
+                $('div#slide_boat').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_kite').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_lantern').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_kite').removeClass("slide-default").addClass('slide-show').offset({ top: 500, left: 710 }).show();
+            });
+            $('div#slide_kite').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+
+            $('div.showcase ul li div.lantern').mouseover(function () {
+                $('div#slide_boat').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_kite').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_lantern').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                $('div#slide_lantern').removeClass("slide-default").addClass('slide-show').offset({ top: 500, left: 1020 }).show();
+            });
+            $('div#slide_boat').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+            $('div#slide_kite').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+            $('div#slide_lantern').mouseleave(function () { $(this).removeClass('slide-show').offset({ top: 0, left: 0 }).addClass("slide-default").hide(); });
+                        MP.timerId = window.setInterval(function () {
+                            var div = $('div.showcase');
+                           if (MP.cursor < 4 && ($(div).scrollLeft() + containerWidth) < (liNum * itemWidth)) {
+                                MP.cursor++;
+                                $(div).animate({
+                                    scrollLeft: '+=' + containerWidth
+                                }, speed);
+                            }
+                        }, 4000);
+        });
+    </script>
+</head>
+<body>
+    <div class="page-container">
+        <div class="page-content">
+            <table id="maintbl" border="0">
+                <!--#include virtual="/db_header.html"-->
+                <tr id="menubar">
+                    <!--#include virtual="/db_menu.html"-->
+                </tr>
+                <!--main title and menubar above-->
+                <tr>
+                    <td align="left" valign="top" style="padding-left: 15px;">
+                        <table style="border-collapse: collapse;" border="0" width="100%">
+                            <tr>
+                                <td class="colleft para1">
+                                    <p class="MsoNormal" style='margin-bottom: 12.0pt; font-size: x-large'>
+                                        <span lang="EN-US"<strong>2012 Annual DFW Dragon Boat, Kite and Lantern
+                                            Festival</strong></span></p>
+                                    <p class="MsoNormal">
+                                        <span class="MsoNormal"><span lang="EN-US">
+                                            <img src="images/cover_2012.jpg" name="_x0000_i1025" hight="300" width="900" border="0"
+                                                align="middle" id="_x0000_i1025"></span></span></p>
+                                    <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style='border-collapse: collapse'>
+                                        <tr style='mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes'>
+                                            <td width="796" style='padding: .75pt .75pt .75pt .75pt; font-size: 9pt;'>
+                                                <p class="MsoNormal">
+                                                    <span lang="EN-US">
+                                                        <o:p>&nbsp;</o:p>
+                                                    </span>
+                                                </p>
+                                                <div>
+                                                    <!--
+         <p class=MsoNormal><span lang=EN-US>Welcome</span></p>
+     <p class=MsoNormal style='margin-bottom:12.0pt'><span lang=EN-US>Welcome to
+        the <strong>2012 Annual DFW Dragon Boat, Kite and Lantern Festival</strong>.
+        The festival features colorful kite flying and exciting dragon boat races,
+        cultural performances, a lantern festival, plus traditional Asian food,
+        arts and crafts and educational activities. Come enjoy a day of fun and
+        exciting cultural diversity and educational activities. This event is free
+        to the public to attend. </span></p>
+-->
+                                                    <p>
+                                                        <span>Sunday, May 20, 2012 </span>
+                                                    </p>
+                                                    <p>
+                                                        <span>Lake Carolyn, Irving TX at the las Colinas Urban Center</span></p>
+                                                    <p>
+                                                        <span style='font-size: x-large'>FREE ADMISSION! </span>
+                                                    </p>
+                                                    <a href="/forms/sponsor.pdf" target="_blank">Download Sponsorship application</a><br />
+                                                </div>
+                                                <div class="hs">
+                                                    <div class="left-arrow">
+                                                        <a href="#prev">
+                                                            <img src="images/scroller_left.gif" name="scroller_left" width="22" height="197"
+                                                                border="0">
+                                                        </a>
+                                                    </div>
+                                                    <div class="showcase">
+                                                        <ul style="width: 99999px;">
+                                                            <li>
+                                                                <div class="dragonboat">
+                                                                    <img src="images/cover_f.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Dragon Boat Competition</h3>
+                                                                    <a href="#" onclick="return MP.select('slide_boat');">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="kiteflying">
+                                                                    <img src="images/cover_d.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Kite Flying</h3>
+                                                                    <a href="#" onclick="return MP.select('slide_kite');">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="lantern">
+                                                                    <img src="images/cover_e.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Chinese Lantern</h3>
+                                                                    <a href="#" onclick="return MP.select('slide_lantern');">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="dragonboat">
+                                                                    <img src="images/cover_c.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Dragon Boat Competition</h3>
+                                                                    <a href="#">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div  class="kiteflying">
+                                                                    <img src="images/cover2.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Kite Flying</h3>
+                                                                    <a href="#">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="lantern">
+                                                                    <img src="images/cover3.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                       Chinese Lantern</h3>
+                                                                    <a href="#">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div>
+                                                                    <img src="images/cover4.jpg" width="200" height="100" />
+                                                                    <h3>
+                                                                        Kite Flying</h3>
+                                                                    <a href="#">More Information</a>
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="right-arrow">
+                                                        <a href="#next">
+                                                            <img src="images/scroller_right.gif" name="scroller_right" width="22" height="197"
+                                                                border="0"></a></div>
+                                                </div>
+                                                <div class="clear">
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                            </tr>
+                        </table>
+                </tr>
+                <!--#include virtual="/db_footer.html"-->
+            </table>
+        </div>
+    </div>
+    <div id="slide_boat" class="slide-item slide-default">
+        DRAGON BOAT RACING <br />
+        Dragon boat racing is one of the best team building sports. Dragon boat racing originated
+        in China over 2,000 years ago. It's an ancient Chinese festival, commemorating the
+        great hero and patriot, Qu Yuan. Rice wrapped in water rush leaves is the traditional
+        food used to honor his sacrifices.<br>
+        <br>
+        According to legend, the local fishermen raced out in their boats to try to save
+        him from drowning in the Mei Lo River. Over the past 25 years dragon boat racing
+        has become an organized international sport. In fact, today it has become the world
+        1/2 fastest growing water sport.<br>
+        <br>
+        Dragon Boat Festivals are celebrated across Asia, in Europe,Australia,Canada and
+        here in the US
+    </div>
+    <div id="slide_kite" class="slide-item slide-default">
+        KITE <br />
+        Originally used for communication in battle, kites were invented inChina about 2,000
+        years ago. In the 12th century, kite making spread to the West. As the handicraft
+        of making kites developed in China, local and traditional Chinese culture combined
+        to produce beautiful kites depicting fairy tales, flowers, birds and other animals.
+        Contests testing the craftsmanship and kite flying skills have been held in China
+    </div>
+    <div id="slide_lantern" class="slide-item slide-default">
+        CHINESE LANTERN<br />
+        The Chinese lantern was the first historically documented portable light in the
+        world. Lanterns are displayed at the Chinese New Year Festival and the August Moon
+        Festival. They are made in many shapes and sizes from small and simple spheres to
+        intricate designs with portraits of historical figures, pictures of legends and
+        landscapes and beautiful calligraphy.
+    </div>
+</body>
+</html>

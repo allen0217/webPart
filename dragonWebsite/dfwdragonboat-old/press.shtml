@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>DFW Dragon Boat Festival</TITLE>
+
+<script type="text/javascript" src="/js/newslinks.js"></script>
+<script type="text/javascript" src="/js/release2007.js"></script>
+<script type="text/javascript" src="/js/release2008.js"></script>
+<script type="text/javascript" src="/js/release2009.js"></script>
+<script type="text/javascript" src="/js/release2010.js"></script>
+<script type="text/javascript" src="/js/release2012.js"></script>
+
+<SCRIPT type="text/javascript">
+var expand = 1;
+
+function ShowLinks()
+{
+	if(expand==1)
+		document.getElementById('newslinks').innerHTML = newslinks;
+	else
+		document.getElementById('newslinks').innerHTML = "";
+
+	expand = -expand;
+}
+
+function ShowRelease(theone)
+{
+	if(theone == 2007)
+		document.getElementById('newslinks').innerHTML = release2007;
+	else if(theone == 2008)
+		document.getElementById('newslinks').innerHTML = release2008;
+	else if(theone == 2009)
+		document.getElementById('newslinks').innerHTML = release2009;
+	else if(theone == 2010)
+		document.getElementById('newslinks').innerHTML = release2010;
+	else if(theone == 2012)
+	    document.getElementById('newslinks').innerHTML = release2012;
+
+	expand = 1;
+}
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="/dragon.css" />
+<STYLE type="text/css">
+<!--stylesheet-->
+</STYLE>
+</HEAD>
+<BODY>
+<CENTER>
+<TABLE id=maintbl border=0>
+<!--#include virtual="/db_header.html"-->
+<TR id=menubar>
+<!--#include virtual="/db_menu.html"-->
+</TR>
+<TR>
+<TD align=left valign=top style="padding-left: 15px;">
+	<TABLE style="border-collapse: collapse;" border=0 width=100%>
+	<TR>
+		<TD colspan=3 class="para1" style="padding: 10px 0px 10px 0px;">
+		<A href="javascript: ShowLinks();" style="text-decoration: underline;">Display News Stories</A><BR><BR>
+		<A href="javascript: ShowRelease(2007);" style="text-decoration: underline;">Press Release &#151; 2007</A><BR>
+		<A href="javascript: ShowRelease(2008);" style="text-decoration: underline;">Press Release &#151; 2008</A><BR>
+		<A href="javascript: ShowRelease(2009);" style="text-decoration: underline;">Press Release &#151; 2009</A><BR>
+		<A href="javascript: ShowRelease(2010);" style="text-decoration: underline;">Press Release &#151; 2010</A><BR>
+		<A href="javascript: ShowRelease(2012);" style="text-decoration: underline;">Press Release &#151; 2012</A>
+	</TR>
+	<TR>
+		<TD id=newslinks class="colleft para1" valign=top style="padding: 0px 10px 0px 0px;">
+<!--left content-->
+		<TD class="colright para1" valign=top>
+<IMG src="/images/press_1.gif"><BR>
+<IMG src="/images/press_2.gif"><BR>
+<IMG src="/images/press_3.gif"><BR>
+<IMG src="/images/press_6.gif">
+<!--right content-->
+	</TR>
+	</TABLE>
+</TR>
+<!--#include virtual="/db_footer.html"-->
+</TABLE>
+</CENTER>
+<SCRIPT type="text/javascript">
+ShowRelease('2012');
+</SCRIPT>
+</BODY>
+</HTML>

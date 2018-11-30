@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DFW Dragon Boat Festival</title>
+    <script type="text/javascript">
+<!--        script-->
+</script>
+    <link rel="stylesheet" type="text/css" href="/dragon.css" />
+ <STYLE type="text/css">
+.schedule {text-align: left; padding-left: 10px; padding-bottom: 8px; color: white;}
+TABLE TD {color: gold;}
+</STYLE>
+</head>
+<body>
+    <center>
+<table id="maintbl" border="0"><!--#include virtual="/db_header.html"-->
+<tbody>
+<tr id="menubar"><!--#include virtual="/db_menu.html"--></tr>
+<tr>
+<td style="padding-left: 15px" align="left" valign="top">
+<H2>Online Payment Through PayPal
+</H2>	
+
+<table style="border-collapse: collapse" border="0">
+<tbody>
+
+<tr>
+
+<td class="colleft para1">
+<!--div class="subtitle">Festival Host</div-->
+
+
+
+<p style="color: White">this page is for making payment online through PayPal as needed. 
+<br><br>
+
+</P>
+
+<!--paypal paynow button-->
+<br />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="QSMULPLKDJLT6">
+<table>
+<tr><td><input type="hidden" name="on0" value="Name of Items">Name of Items</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="Company">Company</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+<br />
+<div class="subtitle">About Marco Polo World Foundation (MPWF)</div>
+
+<!--
+<!--
+Marco Polo World Foundation <br />
+<br />
+About Marco Polo World Foundation (MPWF)<br />
+<br /-->
+<p style="color: White">Marco Polo World Foundation is a non-profit 501 (c) (3) organization founded in 2007. We are a non-religious 
+and non-partisan organization. Our mission is to promote intercultural understanding and acceptance of diversity in 
+the community. We launched the Annual DFW Dragon Boat, Kite and Lantern Festival as an effort to pursue our mission, 
+as well as to showcase international culture and to celebrate Asian-Pacific American Heritage Month. Marco Polo World 
+Foundation provides four programs: (1) the Annual DFW Dragon Boat, Kite and Lantern Festival, (2) scholarships, 
+(3) internships, and (4) membership. Through these programs, we aim to bring together individuals and organizations 
+from different sectors of the community, and encourage local, regional and international interaction. The MPWF 
+scholarship is awarded to students who show dedication to promoting intercultural understanding and serving the 
+community through volunteerism. For more information about the scholarship and our other programs, please visit us 
+on Facebook, Twitter, YouTube, or our website at www.dfwdragonboatfestival.com. We encourage individuals and 
+organizations to donate funds or sponsorships to the foundation so that we can continue to provide family fun, 
+educational, wellness, intercultural and other programs that benefit the community.</p>
+<br />
+
+
+
+<p><span class="subtitle">Marco Polo World Foundation provides the following programs:</span>
+<br />
+<br />
+    1. Annual DFW Dragon boat, Kite and Lantern Festival. <a href="http://dfwdragonboatfestival.com/about-festival.shtml">Learn more about the festival.</a><br />
+<br />
+    2. MPWF scholarship for high school graduates and college students.<a href="http://dfwdragonboatfestival.com/scholarship.shtml">Learn more about the scholarship program.</a><br />
+<br />
+    3. MPWF Internships. <a href="http://dfwdragonboatfestival.com//internship.shtml">Learn more about the Internship program.</a><br />
+<br />
+    4. MPWF membership. <a href="http://dfwdragonboatfestival.com/membership.shtml">Learn more about the membership program.</a><br />
+
+
+</p>
+
+
+
+
+
+
+
+
+
+<IMG src="/images/committee2013.jpg" style="width:200; height:140">
+
+<br />
+
+<br />
+<br />
+<!--right content-->	
+<!--/td--></tr></tbody></table></td></tr>
+<!--#include virtual="/db_footer.html"--></tbody></table></center>
+</body>
+</html>

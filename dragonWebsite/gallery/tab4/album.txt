@@ -1,0 +1,3 @@
+[title]Kites[/title]
+[titlebar]Kites - 18 May 2008[/titlebar]
+[caption]Kites[/caption]
